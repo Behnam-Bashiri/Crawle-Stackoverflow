@@ -1,0 +1,3425 @@
+******Confusion with Keras input shapes******
+
+                I am having a battle with Keras RNNS input shapes and need some guidance please.
+There are a couple of great questions and answers on here already about LSTMs but none of them is actually dealing with ...
+            
+@Dodo
+----------------------------------------------------------------
+******Reverse order of roots and leaves in Plotly's sunburst******
+
+                I am plotting hierarchical data as a sunburst with Plotly's plotly.express.sunburst() in Python. However, I'd like to reverse the order of the categories (with the most broad category inhabiting the ...
+            
+@okost
+----------------------------------------------------------------
+******INTELLIGENT WATER DISTRIBUTION SYSTEM IOT PROJECT PYTHON CODE [closed]******
+
+                I NEED CODE FOR MY PROJECT.PLEASE HELP ME
+            
+@MAGANTI VENKATA MANOJ
+----------------------------------------------------------------
+******different accuracy results for tf data dataset******
+
+                I have loaded a pretrained model as seen below :
+model.load_weights('..')
+
+and i have a test set of type :
+<BatchDataset element_spec=(TensorSpec(shape=(None, 128, 128, 3), dtype=tf.float32, name=...
+            
+@Los
+----------------------------------------------------------------
+******Looking for a Python package to analyse list of lists******
+
+                I have a list of Terms/IRIs from an entity tagger for each text of a corpus. For the whole corpus, I now have a list of lists (of terms).
+all_entities = [[a_1, ..., a_n], ..., [b_1, ..., b_m]]
+I now ...
+            
+@phwebn
+----------------------------------------------------------------
+******Create a class that return pyodbc connection object******
+
+                How to create a class that return me a pyodbc connection?
+That's my example code:
+import pyodbc
+import pandas as pd
+
+class connect:
+    def odbc(self):
+        con = pyodbc.connect(r'DSN=odbcName;UID=...
+            
+@Matteo M
+----------------------------------------------------------------
+******How to get only the value back from Postgres without the table name and id?******
+
+                The below line gets the value into the 'dataFrame' together with the 'table name' so when I try to use it I get the error: InvalidSchema: No connection adapters were found for 'club_url\n0 ...
+Thanks ...
+            
+@kesbetik
+----------------------------------------------------------------
+******Consecutive rows meeting a condition in pandas******
+
+                I have a pandas dataframe like this:
+    col_name
+0       -1
+1       -1
+2       -3
+3       2
+4       1
+5       -3
+6       -2
+7       4
+8       3
+9       5
+
+that could be created with the code:
+import ...
+            
+@Mahdi
+----------------------------------------------------------------
+******How do I have my program actually activate the quiz?******
+
+                What is wrong with my coding. It is a simple conditional statement where you say yes or no to taking the quiz. If you type yes, you begin answering questions and if you type no, it just exits out of ...
+            
+@Jay Jay 
+----------------------------------------------------------------
+******Duplicated function : subset a column number instead a column name******
+
+                I have this :
+data['Duplicated']=data.duplicated(subset='Name')
+
+It's working, but I'd like to chang the column name 'Email' by his column number, like this :
+data['Duplicated']=data.duplicated(subset=...
+            
+@Mop
+----------------------------------------------------------------
+******Voronoi cells volumes are off with Scipy******
+
+                I would like to calculate the volume of (closed) Voronoi cells.
+There are points which correspond to non-overlapping sphere centers, and which have a packing fraction within a cylinder of radius 100, ...
+            
+@yvrob
+----------------------------------------------------------------
+******Python Kivy error: Unable to get a Window, abort******
+
+                I'm tired trying to fix this error, can someone help me?
+I fixed the kivy fatal error first with adding a variable in the variables environment in the user variable(the variable's name is: ...
+            
+@Mr Farhan
+----------------------------------------------------------------
+******Django reply of comment function issue, have to reply all html form******
+
+                It works when you enter a comment, but when i write reply of comment, there is an error that requires me to enter the form in all areas.
+I'm sorry I can't upload the code, so I'm taking a screenshot
+            
+@김경민
+----------------------------------------------------------------
+******Why am I getting a KeyError:0 when I make an api call?******
+
+                symbol = 'AAPL'
+api_url = f'https://financialmodelingprep.com/api/v3/profile/{symbol}?apikey={FMP_API_TOKEN}'
+data = requests.get(api_url).json()[0]
+print(data)
+
+I ran this code and it was working ...
+            
+@BannyM
+----------------------------------------------------------------
+******multiprocessing in python, can i use variables for global?******
+
+                hellow,
+please some help.
+i want to take variables when using repeating statement.
+Actually in my code, there are so many variables and function to handle variables.
+so i have to use multiprocess for ...
+            
+@hyun woo Jung
+----------------------------------------------------------------
+******Thresholding a GEE Image Collection with Python API******
+
+                I am looking for a way to thresholding image collection by a given with Python API, in this script i want to calculate images per year and make classification
+With the python API I get the error: '...
+            
+@Megivareza
+----------------------------------------------------------------
+******Python requests how to send body of form-data******
+
+                i want to make a post request but the post request need to have header
+content-type=multipart/form-data; boundary=----WebKitFormBoundaryxzzcpJW8Y35CXWts
+
+and the payload i want to send is (i copied ...
+            
+@Shuvam Jaswal
+----------------------------------------------------------------
+******Excel Product Categorization in Python******
+
+                I'm trying to break up Product names into categories, for example if the product is "Demi Baguette", the category should be "Baguette" and sub category "Demi". I have ...
+            
+@Crackenwagen
+----------------------------------------------------------------
+******Python application won't shut down after calling Vaex df.sum or df.unique******
+
+                I am building a Python FastApi application that uses Vaex. I noticed that when either function df.sum or df.unique is called I can no longer terminate the application by pressing ctrl + c. Here are ...
+            
+@afriedman111
+----------------------------------------------------------------
+******Arranging a dataframe into a list of dictionaries based on columns values******
+
+                This is a follow-up to a question I previously asked regarding how to create dictionaries with specific columns however I realise now I need to be a bit more specifc in what I am asking. Take the ...
+            
+@Aaron Thomas
+----------------------------------------------------------------
+******Python XML to CSV child tags******
+
+                I am working on xml file, i need to move this to csv file, but I dont know how to access to child tags based on the structure of my xml, here is an example of this:
+<?xml version="1.0" ?&...
+            
+@gwc
+----------------------------------------------------------------
+******Unsupported operant type(s) error on return statement in python******
+
+                I have a piece of code like this :
+def get coordinates(citydict):  
+    coords=get_geocode(city_dict).raw  
+    if coords is not None:  
+            lat,long=coords['lat'],coords['lon']  
+            ...
+            
+@SQLserving
+----------------------------------------------------------------
+******HOW TO BUILD A FAVICON GENERATOR [closed]******
+
+                I have been tasked and assigned a project to build a web application that can generate favicon of various sizes and color from a single uploaded image of format PNG, JPG ETC with HTML code as well. ...
+            
+@Eddy Yahwin
+----------------------------------------------------------------
+******How to Verify existence of a path that is processed with a for loop? - DataBricks******
+
+                I have an automatic process that, through a for loop, checks if there is a folder on a daily basis to process its content (This folder belongs to a blob storage inside an Azure container, but it is ...
+            
+@Osky
+----------------------------------------------------------------
+******type object 'playlist' has no attribute 'song'******
+
+                probably an easy solution that I just can't :(
+anyway I tried to make a class playlist that one of it's attributes is a pointer to song type object as shown:
+class playlist:
+    def __init__(self):
+   ...
+            
+@Ofek Osher
+----------------------------------------------------------------
+******TypeError in paython******
+
+                from Abstractions.Products import Products
+from itertools import product
+from Implementation.ProductsImplementation import ProductsImplementation
+from Implementation.VendorImplementation import ...
+            
+@sagar patel
+----------------------------------------------------------------
+******How to fix Scrapy-Selenium not yielding output?******
+
+                Selenium requests works but not using scrapy-selenium. The page loads and I get a 200 response from the website, but I get no error as it isn't yielding any output.
+class SeamdbTestSpider(scrapy....
+            
+@Baraa Zaid
+----------------------------------------------------------------
+******How to order categorical x axis of seaborn plot based on author-defined categorical order?******
+
+                This seems like it should be so simple but none of the online solutions work for me.
+This is my code so far
+sns.histplot(dataset['How long have you been cycling in Dublin?'], color="c", ...
+            
+@speck
+----------------------------------------------------------------
+******Howto use Python to add a Jenkins Multi-Project Throttle Category******
+
+                I have a python script which clones the main line Jenkins jobs into released branch jobs. The mainline jobs include a Multi-Project Throttle Category, a new category is required for the branch jobs ...
+            
+@M3Driver
+----------------------------------------------------------------
+******How should i create a library of authentication codes, examples and community interaction?******
+
+                I want to build a web app which will be a library of authentication codes and will allow community interaction. Unauthenticated user will only be allowed to visit, view basic information, interact ...
+            
+@King James
+----------------------------------------------------------------
+******selenium Webdriver wait until expected conditon not working properly on Amazon EC2 instance******
+
+                I made a script to visit a page and log in then get a download link from the page.
+The script works fine on my local window machine, but it's not working on Amazon EC2 instance(ubuntu)
+The code is as ...
+            
+@Young-Kwang Oh
+----------------------------------------------------------------
+******access the header/name of items in a pandas.core.series.Series serious******
+
+                I have the following code where I'm trying to pull dividends for a stock I own and access the corresponding ex date:
+def get_all_dividends(ticker):
+    yahoo_stock_obj = yf.Ticker(ticker.upper())
+    ...
+            
+@codyc4321
+----------------------------------------------------------------
+******Swap 2-character block with the next one in a list******
+
+                I am trying to implement an algorithm in Python that swaps a 2-character block with the next 2-character block for every block of 4 characters, for example if I have "2d14 56f2" it will be &...
+            
+@Aleya
+----------------------------------------------------------------
+******Set the size and location of a subplot within a window of specific size in matplotlib******
+
+                I want to exactly define the location and size of a single subplot within an entire plot. I define the subplot like below:
+plt.figure(figsize=(12, 12)) # ignored
+fig, ax = plt.subplots(1, 1, figsize=...
+            
+@LC117
+----------------------------------------------------------------
+******what are depended package for install WeasyPrint in dockerfile?******
+
+                I install WeasyPrint and config it for views.py ,urls.py,admin.py and my template.
+when i want convert html page to pdf , i have this error :
+(process:7): Pango-CRITICAL **: 13:27:29.635: ...
+            
+@masoud
+----------------------------------------------------------------
+******I am not able run the exe for python******
+
+                if __name__ == "__main__":
+  lables
+  .
+  .
+
+When I use pyinstaller and make a file executable it is throwing error like
+
+Traceback (most recent call last):
+  File "main.py", line ...
+            
+@S SUBHASH
+----------------------------------------------------------------
+******Detect disabled button for checkout bot******
+
+                Sup everyone.
+I'm building a checkout bot for myself and part of it is a pandas dataframe, which prints the item title + if the item is available or not.
+I can print the item title easily, but the ...
+            
+@totesbread
+----------------------------------------------------------------
+******How can I return True "1,2,3,4"?******
+
+                The problem is complete the solution, a function that verifies that the string s is 4 or 6 long and consists only of numbers. For example, if s is "a234", return False, and if s is "...
+            
+@minsing-jin
+----------------------------------------------------------------
+******Python exe file - ImportError: ERROR: recursion is detected during loading of "cv2" binary extensions. Check OpenCV installation******
+
+                i am trying to create an exe python file but i keep facing these errors.
+Environment:
+Windows 10
+PyInstaller: 5.2
+Python: 3.10.5
+opencv-python 4.6.0.66
+Terminal error when i click the exe file.
+
+I ...
+            
+@Abdullah Isa
+----------------------------------------------------------------
+******Big O for Palindrome Checker Python******
+
+                There are a few different solutions to the classic Palindrome Question. One of them involves reversing the string and comparing the original string to it another involves comparing first and last ...
+            
+@Python Developer
+----------------------------------------------------------------
+******Error while installing stable-baselines in Kaggle******
+
+                i'm trying to run some machine learning environment on Kaggle, but i can't install the packages... I Need to install stable-baselines3[extra] but i cant. I tried with
+pip install stable-baselines3[...
+            
+@Alberto del Monte
+----------------------------------------------------------------
+******Why is my "or" statement not working as I want? [duplicate]******
+
+                import time
+
+repeat=0
+price=0
+print("Welcome to McDonald's self order system")
+time.sleep(0.5)
+name_person=str(input("\nPlease enter your name to continue: "))
+while True:
+    ...
+            
+@CreeperOnCoding
+----------------------------------------------------------------
+******Tkinter grid vs pack manager window shrink******
+
+                I have an example code that use the Tkinter grid manager for creating and allocating four squares:
+upper=tk.Frame(root)
+lower=tk.Frame(root)
+canv1=tk.Canvas(upper,bg="blue")
+canv2 = tk....
+            
+@Gregosh
+----------------------------------------------------------------
+******How do I correct the row index******
+
+                I have extracted the item and price from a receipt in python, creating a database using pandas I get a range index of 1 entry from 0 to 0.
+have looked on line for quite a while, I have tried it all, ...
+            
+@GILBERT KELLER
+----------------------------------------------------------------
+******ValueError in fit function of trainnig******
+
+                I am training dataset on pointnet model. Ι have this error and i dont know what should i do.
+def conv_bn(x, filters):
+x = keras.layers.Conv1D(filters, kernel_size=1, padding="valid")(x)
+x = ...
+            
+@Ali soltani. mohammadi
+----------------------------------------------------------------
+******Poetry - ModuleNotFoundError - Python and Python3 returns different path******
+
+                Poetry shows ModuleNotFound error, although I did install Django.
+Poetry init -> Poetry add Django -> poetry install -> poetry shell -> poetry install again to have it covered both ways.
+...
+            
+@PolarBear10
+----------------------------------------------------------------
+******Portable way of checking if *some* user exists in either Linux or Windows?******
+
+                I need to check if a user exists in either Linux or Windows, using Python 3 (3.7 right now for reasons unrelated).
+No, pwd doesn't work on Windows.
+No, getpass only returns current username, while I ...
+            
+@LetMeSOThat4U
+----------------------------------------------------------------
+******sqlalchemy : search in a complicated relational postgresql database******
+
+                I have 3 tables
+class Users(base):
+    __tablename__ = 'users'
+    id = Column('id', BIGINT, primary_key=True, autoincrement=False)
+    firstname = Column('firstname', VARCHAR(32))
+
+class Blocks(base):...
+            
+@HadiH2o
+----------------------------------------------------------------
+******Python FASTAPI shedule task******
+
+                I want to write a task that will only run once a day at 3:30 p.m. with Python FASTAPI. How can I do it?
+I tried this but it works all the time.
+schedule.every().day.at("15:30:00").do(job2)
+
+...
+            
+@Arzu Yıldız
+----------------------------------------------------------------
+******How to define steps for particles in pwswarm or pyswarms (Particle Swarm Optimization)******
+
+                I'm using bellow code to Optimize some parameters but the problem is I can't specify "steps" for values!
+
+In this case I want 1x step to generate only integer values but pyswarm generating ...
+            
+@Mori
+----------------------------------------------------------------
+******Pyspark to map the exchange rate value in dataframe******
+
+                I have two dataframes df1 and a  a separate dataframe for USD exchange_ratedf2:
+#df1#
+from_curr
+to_curr
+Date
+value_to_convert
+AED
+EUR
+2017-01-12
+2000
+AED
+EUR
+2018-03-20
+189
+UAD
+EUR
+2021-05-18
+12.5...
+            
+@f.ivy
+----------------------------------------------------------------
+******Join series with repeated index on dataframe where column values are equal to the index in the series******
+
+                Say I have the series an dataframe like:
+import pandas as pd
+s = pd.Series([10,20,11,12,30,34],
+    index=["red","red","blue","blue","green","...
+            
+@CutePoison
+----------------------------------------------------------------
+******Low validation accuracy of any CNN model i try to train******
+
+                I 've been trying to train a pre-existing model on an architectural dataset, and no matter what model i try or changes i do, i never seem to get past 60-66% (maybe 70% at best once) validation ...
+            
+@DaveK
+----------------------------------------------------------------
+******Is there a way to mask your IP address when connecting to TCP server?******
+
+                I would like to connect to a TCP server but not with my real IP. I know I can use proxies but they're usually pretty unstable. Is there a way to not really spoof my ip address (and block myself from ...
+            
+@j. cole
+----------------------------------------------------------------
+******Python selenium gives error while fetch nth element******
+
+                <div class="booking-classes">
+   <h3 style="text-align: center;">
+      <p><a href="https://foreupsoftware.com/index.php/booking/20290#/teetimes" ...
+            
+@GABDA
+----------------------------------------------------------------
+******ModelForm including ForeignKeys with multiple databases******
+
+                Having two models in models.py such as:
+    provider_name = models.TextField(primary_key=True, default=None)
+    provider_address = models.TextField(null=False, blank=False, default=None)
+
+class ...
+            
+@Nico Gheorghe
+----------------------------------------------------------------
+******How can I parse std out in python?******
+
+                I have the output below. I want to get only IP Address line. I wrote a for loop for it but it doesnt work.
+__GENUS          : 2
+__CLASS          : Win32_NetworkAdapterConfiguration
+__SUPERCLASS     : 
+...
+            
+@firstmoon
+----------------------------------------------------------------
+******TypeError: string indices must be integers in json******
+
+                I have a dictionary that contains a list like this
+data = {'data': [18,170,457,99,40,0,0,4,
+  434,168,454,99,40,3,1,
+  0,  421,168,452,100,41,2,
+  0,4,455,13,32,11,6,
+  0,0,4,279,14,46,10,5,
+  0,0,1,...
+            
+@PeakyBlinder
+----------------------------------------------------------------
+******How to avoid memory climb up while stream reading and writing large xml file in python?******
+
+                I need to read a content of an xml file, process or transform the content (say attributes) and write processed content into another file whilst effectively managing the memory.
+The input file size is ...
+            
+@Balaji
+----------------------------------------------------------------
+******Celery results not updating after dockerization******
+
+                I'm currently putting my Django app on Docker. I successfully dockerized Django, gunicorn, nginx and Celery, however when I run a Celery task, even though it's executed (displayed in the logs), the ...
+            
+@Balizok
+----------------------------------------------------------------
+******Extract elements from string with specific pattern [closed]******
+
+                I have a string like this :
+"ABCD, EFGH, IJKL, ..."
+I want extract from this string 4 elements like "ABCD" every 2 elements ", ".
+How can I do that ?
+            
+@TomYabo
+----------------------------------------------------------------
+******How to get the nearest similar color from dicrtionary of colors******
+
+                I wrote program to identify a color from file and prints the name of given colors, from which color of file has the highest similarity with. I used HSV to get range of color and compare HSV to this ...
+            
+@Nighttwinkle
+----------------------------------------------------------------
+******How to filter based on the previous value and a cutoff value******
+
+                I am using Jupiter notebook and I want to create a filter.
+I have an array which contains sensor reedings. The sensor dat are available every seconds. I want to implement a filter such as:
+
+store the ...
+            
+@Jason
+----------------------------------------------------------------
+******How to find element that is not a link (NoSuchElement) [duplicate]******
+
+                So I've been coding a simple program that opens a website, logs in and navigates through it. I am supposed to extract some data from it. I've been having some issues that I have managed to solve, but ...
+            
+@MrHysteria-
+----------------------------------------------------------------
+******Image file type is not supported when downloading using urllib3******
+
+                hi I am downloading image like this
+import urllib3     
+
+http = urllib3.PoolManager()
+r = http.request('GET', 'https://i.picsum.photos/id/192/536/354.jpg?hmac=a22QkdSZ7zXUHpV4-...
+            
+@TNN
+----------------------------------------------------------------
+******discord.py/nextcord.py Reaction role with on_raw_reaction_add not working******
+
+                I´ve been a long time trying to figure out why this isn´t working, the part that doesn´t work is where I get the role, but I can´t figure out why.
+Does anyone know? :c
+@client.event
+async def ...
+            
+@Komrade FMX
+----------------------------------------------------------------
+******TypeError: 'Button' object is not callable?******
+
+                I am trying to make a password checker and in one of the functions, I need to add a button, this function was called by another one and the tkinter screen was made in a separate function, but it has ...
+            
+@Kverr
+----------------------------------------------------------------
+******i want to separate single row amd append as new rows with same index and appending twi required column******
+
+                import numpy as np
+
+df = pd.DataFrame({'Index':['A','B','C','D','E'],
+    'In': ['3-Dec-21', '19-Dec-21', '20-Marc-21', '20-Apr-21', '1-Jan-21'],
+        'Out': ['5-Feb-22', '6-May-22', '25-Jun-22', '...
+            
+@Swati San
+----------------------------------------------------------------
+******Use pykalman to predict gps gap values******
+
+                Given this GPS dataset (sample.csv) I am trying to apply pyKalman so as to fill the gaps on the GPS series. The code I am using is taken from here.
+import pandas as pd
+import numpy as np
+coords = pd....
+            
+@Thoth
+----------------------------------------------------------------
+******Time out error while calling input dataset in lead saleability prediction model******
+
+                I am facing a timeout error while calling the classify method, but there is no issue while feeding the classifier a static array of the exact same datatype size and orientation. Also, the errors are ...
+            
+@Ashish Narwal
+----------------------------------------------------------------
+******python efficient way to compare item in list of tuples******
+
+                Is there an efficient way without for loops to compare if an item inside a list of tuples is the same across all tuples in Python?
+lst_tups = [('Hello', 1, 'Name:'), ('Goodbye', 1, 'Surname:'), ('See ...
+            
+@matt.aurelio
+----------------------------------------------------------------
+******RefreshError: ('invalid_grant: Invalid JWT: Token must be a short-lived token (60 minutes) and in a reasonable timeframe******
+
+                I am trying to access data from google sheets. But when I try to run this code it displays Refresh Error.
+sh = gc.open('InstagramLinks').sheet1
+            
+@Muhammad Abdul Hannan
+----------------------------------------------------------------
+******APScheduler not creating the job in AWS deployed Django Application******
+
+                I have deployed an application which consists of a job like the following:
+from apscheduler.triggers.combining import OrTrigger
+from apscheduler.triggers.cron import CronTrigger
+
+from reports.views ...
+            
+@Rahul Sharma
+----------------------------------------------------------------
+******Why my character can jump through the floor in pygame******
+
+                I'm trying to make a maze platformer game in pygame, but my player keeps jumping through the floor. I didn't find any good answers or tutorials to that problem. I hope to get an answer from here soon. ...
+            
+@Ender
+----------------------------------------------------------------
+******How to install apache superset in linux (linux version 22) machine******
+
+                IM trying to install apache superset on my linux machine
+
+python version 3.8
+Linux version 22
+
+Im followed this link (https://superset.apache.org/docs/installation/installing-superset-from-scratch/)
+I ...
+            
+@jane doe
+----------------------------------------------------------------
+******Camera Calibration Opencv, initUndistortRectifyMap vs. Undistort******
+
+                I've been attempting to undistort frames from a camera feed going into a Jetson AGX using Python in Visual Studio Code.
+The following code got the job done, I'm just not entirely sure what is actually ...
+            
+@Aleks-CST
+----------------------------------------------------------------
+******How to Send send push notification from python to IOS specific user using azure notification hub******
+
+                I want to send the notification to IOS specific user using python via azure notification hub
+The Code that I have developed is added below now please provide the solution to send the message to the ...
+            
+@Kunj Thakor
+----------------------------------------------------------------
+******NodeJS stream api equivalent for Python S3 file upload******
+
+                Is there a NodeJS stream api equivalent for python? I would like to upload a file from the browser to s3, through a python backend server.
+Usin NodeJS, using the official s3, express and multer ...
+            
+@Dani
+----------------------------------------------------------------
+******MySQL connection to Python in Spyder IDE says module not found?******
+
+                So I'm trying to connect Python and MySQL in Spyder IDE to complete my school project, the error its giving me is:
+File "C:\Users\aakar\AppData\Local\Programs\Spyder\pkgs\spyder_kernels\py3compat....
+            
+@ThePowerHex_YT
+----------------------------------------------------------------
+******Searching images within region/area and reacting based on them******
+
+                Total beginner here.
+In this program, I am trying to "monitor" a specific area on my screen. There are several images entering the region (from the right side) with random frequency. (...
+            
+@Platecek
+----------------------------------------------------------------
+******Can't read data with BeautifulSoup******
+
+                I want to scrape table data from this link: https://ourworldindata.org/grapher/pollution-deaths-from-fossil-fuels?tab=table
+I use this code:
+import pandas as pd
+from bs4 import BeautifulSoup as bs
+...
+            
+@beridzeg45
+----------------------------------------------------------------
+******Pyomo (Transportation theory): including a constraint that compares the value of period 'T' with 'T-1'******
+
+                I'm trying to solve the classical 'Transportation theory' to optimize the production and transportation of goods from 3 factories to 4 distribution centers, through 2 weeks.
+There are:
+
+3 max ...
+            
+@Hookstark
+----------------------------------------------------------------
+******How can I inform mypy that a Set[re.Match] does not contain None?******
+
+                I have code:
+matched_policies = {...} #some logic to derive a set
+return {
+        re.search(r"p\d{6}", matched_policy).group(0)
+        for matched_policy in matched_policies
+}
+
+for which ...
+            
+@jamiet
+----------------------------------------------------------------
+******Dealing with discrete data when preprocessing******
+
+                I have some data that is a mixture of continous and discrete- the type of category I am having issue is:
+'Age at first period' :
+1="<10"
+2="10-11"
+3="12-13"
+4="14-...
+            
+@helpwithkeras
+----------------------------------------------------------------
+******How to add a border to hyperlink with Fitz module?******
+
+                I spent three hours experimenting this morning on this but I can't manage to make the border visible on a hyperlink within a pdf annotated with the python FITZ module. Any idea ? Thanks so much in ...
+            
+@angelo95210
+----------------------------------------------------------------
+******DataFrame wide to long with hierarchies given by relative position of row******
+
+                I am struggling to reshape my pandas dataframe from wide to long (I know kind of a ridiculously easy task - sorry for that - but I am completely stuck right now).
+Problem is, that the categorical ...
+            
+@okost
+----------------------------------------------------------------
+******Converting python script to groovy******
+
+                I'm not really familiar with groovy and I'm having some trouble translating this python script to groovy.
+The script:
+def testVul(harbor_link,library,image,tag,username,password):
+
+    #...
+            
+@QML
+----------------------------------------------------------------
+******How can I populate a table with data from another table that already has data?******
+
+                I'm new to sqlalchemy and started fiddling around with the library a bit. I have the following table class that creates my user table:
+class Users(Base):
+    __tablename__ = 'USERS'
+    UserID = ...
+            
+@hoek rand
+----------------------------------------------------------------
+******Delete rows in apply() function or depending on apply() result******
+
+                Here I have a working solution but my question focus on how to do this the Pandas way. I assume Pandas over better solutions for this.
+I use groupby() and then apply(axis=1) to compare the values in ...
+            
+@buhtz
+----------------------------------------------------------------
+******Regex Multiline read [closed]******
+
+                I am tryin to extract all urls from the given text, which is multiline. I was able to make the regex syntax but it only reads the first row. I did a lot of changes with re.MULTILINE , placed on ...
+            
+@Danail Lesev
+----------------------------------------------------------------
+******How to auth google drive account on a remote server using python******
+
+                i have a server and i want to provide users an option to upload files to drive.
+I tried with
+gauth = GoogleAuth()
+gauth.LocalWebserverAuth()
+
+but when i send the OAuth link to other people they can't ...
+            
+@Dioswison
+----------------------------------------------------------------
+******Split torch tensor/np array using mask into list of tensors******
+
+                I have a 1D tensor of data A. And mask M which is of the same shape as A. The mask M could look like this for example:
+tensor([0,0,0,0,1,1,2,2,2,3,3,3,3,3]
+
+Now I want to split my 1D tensor A into a ...
+            
+@sebko_iic
+----------------------------------------------------------------
+******Is it possible through code to add a new column (to hold Boolean type with default value False) to the table in an existing SQLAlchemy database?******
+
+                I had come across a tool named Alembic from the online articles for migration operations in SQLAlchemy. But is the same possible through python code?
+            
+@yk_learner
+----------------------------------------------------------------
+******Sqlite get password by userid [duplicate]******
+
+                I'm trying to get a passphrase by userid but I get an error
+line 41, in get_passphrase
+return  self.conn.execute(stmt, key)
+ValueError: parameters are of unsupported type
+def get_passphrase(self, ...
+            
+@JustAnon
+----------------------------------------------------------------
+******Appium find_elements_by_accessibility_id or find_elements_by_id occasionally do not return all the elements******
+
+                I am running tests with Robot Framework + Appium in Android emulator, using python to write the test code.
+Lately, when running the tests in an emulator, I have seen odd behavior when ...
+            
+@diidu
+----------------------------------------------------------------
+******function issue, not able to understand [closed]******
+
+                I Found this function in python code  "lambda o, t, s_w, s_h, dct:" could someone explain what it means
+            
+@kishan chaurasiya
+----------------------------------------------------------------
+******how to represent the equivalent expression of spark code in pyspark?******
+
+                I am new to Scala, Spark and Pyspark. Could anyone help me with equivalent expression of this spark code (scala) in Pyspark? I tried to represent but I do not know if I am right.
+spark code in Scala:
+ ...
+            
+@cae
+----------------------------------------------------------------
+******How do i download a file from Website that loaded before clicking******
+
+                I'm trying to download files from a website but whenever I see Network it makes a request to ..te-guitar.com/tab/download?id={}&session_id= which means it downloading from a file from this URL but ...
+            
+@Adarsh Raj
+----------------------------------------------------------------
+******Setting a class attribute of the type dict as private in python******
+
+                I have the following situation (here a bit simplified):
+class MyClass():
+    tables = dict
+    matrices = dict
+
+    def __init__(self, table_A, table_B=None, A=None, B=None)
+        self.tables = {'A':...
+            
+@ghtzusido
+----------------------------------------------------------------
+******Adding Constraint in ortools******
+
+                I have four lists:
+Thickness - (0.8, 0.8, 0.8, 0.9, 0.9, 1.0, 1.0, 1.0,....)
+Width - (1000 , 1000 , 1120 , 1250 , 1250 , 914 , 914 , 1250 , ....)
+Weight- ( 21.22 , 17.88 , and so on )
+Bin Capacities - ...
+            
+@crazyjc44
+----------------------------------------------------------------
+******Using Reserved Ngrok Domain with Flask-Ngrok******
+
+                I have written a simple API using Flask. It works when run on my local machine and when testing using Ngrok. The issue I have is that Ngrok changes the IP each time the API is run.
+I have a paid Ngrok ...
+            
+@Andy
+----------------------------------------------------------------
+******Reading a PDF file using PyPDF2 returns unreadable string in Python3.9******
+
+                I'm using PyPDF2 to read a PDF from my OneDrive.
+This is the code I used:
+import PyPDF2
+
+pdfFileObj = open(r'pathToMyFile', 'rb')
+  
+# creating a pdf reader object
+pdfReader = PyPDF2.PdfFileReader(...
+            
+@Yuval Lahav
+----------------------------------------------------------------
+******The problem is related to the async module******
+
+                my code:
+import asyncio
+async def count(counter):
+    print(f"number of entries in the list {len(counter)}")
+
+    while True:
+        await asyncio.sleep(1 / 1000)
+        counter.append(1)...
+            
+@Karl Parks
+----------------------------------------------------------------
+******How do I sort the movies according to their star ratings and filter the movies with lower rating than the specified threshold******
+
+                I want to sort the movies according to their star ratings and filter the movies with lower rating than the specified threshold.
+I want to sort movie and TV information in descending order by stars, ...
+            
+@ponda
+----------------------------------------------------------------
+******How to get the next line of the match usung regex in python******
+
+                Full name: Ajith Kumar
+    First name :
+       Ajith, aka actor
+    Last name :
+       Kumar 
+    Age :
+       55
+
+So here, I want to write a code in python using regex to fetch the string "First ...
+            
+@Arya Arjun
+----------------------------------------------------------------
+******List python multiply with certain odd number contidition [closed]******
+
+                I want to multiply list_1 with only odd number from list_2:
+list_1 = [1,2,3,4,5]
+list_2 = [2,3,6,8,9]
+
+Expected Result :
+3
+9
+6
+18
+9
+27
+12
+36
+15
+45
+
+How can I get that expected result?
+            
+@Jovian Aditya
+----------------------------------------------------------------
+******Efficient Data Structure to Save on Disk******
+
+                I am working with many datasets that are of the structure Key|Date|Value.
+The Key values can be variable length strings, or integers. The value can be any date type. The dates can be non continuous. ...
+            
+@user157545
+----------------------------------------------------------------
+******Visual Code how can I activate the virtual environment automatically?******
+
+                Maybe a simple question, but I cannot figure it out. I work within Visual Studio Code on a MacBook. Within a directory I create a virtual environment and have activated that with source .venv/bin/...
+            
+@matje59
+----------------------------------------------------------------
+******Several urls to splash******
+
+                My problem is that I want to post several urls to my splash browser, but i have no luck. How can I do it? This is my code, i tried to give splash list or dict, nothing worked.
+def web_conn(urls):
+    ...
+            
+@Nikita Pupkin
+----------------------------------------------------------------
+******How to assert a method is called depending on user input in another class. Python Unittest******
+
+                Given I have to classes in Python.
+class Interface:
+  def user_interface(self):
+      my_val = input()
+      if my_val == 1:
+           datamanager.import_from_file() 
+      
+
+class Datamanager:
+   ...
+            
+@SuperDieter
+----------------------------------------------------------------
+******How do I make a Kivy app update values from other files?******
+
+                I'm trying to make a Kivy interface that updates constantly when values imported from other files are constantly changing.
+Questions:
+
+How do I make it so, when I change the value of the "fk"...
+            
+@Linus
+----------------------------------------------------------------
+******Process failed with error 500: assert os.path.exists******
+
+                I'm trying to run an ML pdf-to-json python 3.8 package on my local windows machine.
+https://github.com/allenai/s2orc-doc2json
+This package is version locked to python 3.8 and grobid 0.6.1
+I tried it ...
+            
+@Halnex
+----------------------------------------------------------------
+******Elasticsearch Data Streaming in python******
+
+                I have the index in the Elasticsearch named livedata, which has the field datetime, item, price.
+The data is ingested in the index every 10 seconds. I want the same data to be streamed in python from ...
+            
+@curious_ands
+----------------------------------------------------------------
+******Python Quads from Point Grid [closed]******
+
+                Hi, I have a list of points arranged in a grid with 7 rows and 7 columns. Using Python how can I create a list of quads? I have no idea where to start. This is not my day job. The grid of points in ...
+            
+@sjmurphy84
+----------------------------------------------------------------
+******JSON Format, API request.GET()******
+
+                Could someone help me on this one, please.
+I'm have an API key to request informations from my company logistics system, I use it to all endpoints in there (accounts receivable, orders...), but the ...
+            
+@Camilo Lorenzo
+----------------------------------------------------------------
+******Iterating through a data frame and aggregating sums******
+
+                Hope you can help me.
+I have the following dataframe named df (see table below)
+I have two sales reps - sales_rep_1 and sales_rep_2.
+I need to assign either of them to a a letter in the table. A to Z
+...
+            
+@Alastair
+----------------------------------------------------------------
+******how can I check the value for a condition? They are in the list of dictionaries and the dictionary is in the list******
+
+                How can this be done or through which library is easier ?
+I get a list of dictionaries and I want to take the data from the "Client" and overwrite it so that in the future I can write to ...
+            
+@Alexey
+----------------------------------------------------------------
+******Having multiple servers using my discord bot******
+
+                I want to be able to have different welcome channels and welcome messages for different servers, I also want these to be able to be set by command. However I have not a clue in the world how to use a ...
+            
+@forge
+----------------------------------------------------------------
+******Docker container can't access Basler GigE vision camera******
+
+                We use docker container for python project. We create all files and we need to connect basler camera via GigE vision protocol. We grab frames with pylon viewer very well. What can we do for access ...
+            
+@erenpostaci
+----------------------------------------------------------------
+******Network drive (mapped) access issue for python script running via Windows Task Scheduler******
+
+                I am trying to run a python (3.8.8) script with Windows task scheduler. I can run the script without any problems when running through Spyder console.
+When I try to run the script via task scheduler ...
+            
+@A Potdar
+----------------------------------------------------------------
+******When i Write to csv file, the data gets written with commas separating each character in python******
+
+                i am trying to read a csv file, then write the data to another one. when i do this, all the data that gets writtern is seperated by commas
+here is my code:
+with open(filenameInput, 'r') as csvfile:
+...
+            
+@P1CKL3D
+----------------------------------------------------------------
+******How to find the focal and the pp parameter in opencv for a smartphone video?******
+
+                Hello I want to developp a Visual odometry app for Smartphone. I already created a working pipeline using kitty dataset. Now I wasn't able to make it work with a video I took using my smartphone (...
+            
+@DeDeL k
+----------------------------------------------------------------
+******Changing file names and organising******
+
+                Good afternoon,
+I am attempting to write a programme that renames all files in a folder and adds a prefix to them, however when the programme adds the prefix and changes the name it muddles the order ...
+            
+@SockWhisperer
+----------------------------------------------------------------
+******how to deal with `TypeError: save() missing 1 required positional argument: 'self'`?******
+
+                I used the solution proposed in this threat  How can I modify ModelCheckPoint in keras to monitor both val_acc and val_loss and save accordingly the best model? to get my custom checkpoint callback.
+...
+            
+@Aurepilous
+----------------------------------------------------------------
+******Style and Efficiency question related to adding a column calculate from a combination of rows to a pandas data frame******
+
+                This is a question regarding style and code efficiency.  I am trying to add a data column to a pandas dataframe that is calculated based on the values in other columns in the row.
+I have used this ...
+            
+@vandel
+----------------------------------------------------------------
+******How can I create a new column based on the other columns headers******
+
+                Hi I hope someone can help me...
+I am trying to create a YTD Total column on my data frame (see screenshot below).
+enter image description here
+Ideally it would add up all the values from columns that ...
+            
+@brobbins1886
+----------------------------------------------------------------
+******Incorrect conversion from Raw RGB Depth image to gray******
+
+                I am working with a simulation in Python equipped with a depth sensor. The visualization it's done in C++. The sensor gives me the following image that I need to convert to gray.
+
+For the conversion, ...
+            
+@GabyUnalaq
+----------------------------------------------------------------
+******Loading someone else's shared library gives a segmentation fault******
+
+                I have a shared library (libnative-lib.so) extracted from an Android App that provides a function salt(). The return of this function is a salt for a SHA256 hash used for an API and I want to build my ...
+            
+@henrydatei
+----------------------------------------------------------------
+******I am working on a djnago project and I am using django_bootstrap_icons, I have installed it using pip and done everything but they aren't showing******
+
+                settings.py
+INSTALLED_APPS = [
+    ...
+    'myapp',
+    'django_bootstrap_icons',
+]
+...
+
+STATIC_URL = '/static/'
+MEDIA_URL = '/media/'
+
+MEDIA_ROOT = os.path.join(BASE_DIR,'static,'media')
+STATIC_ROOT =...
+            
+@munacips
+----------------------------------------------------------------
+******How to send mail (like noreply) with Django sendgrid******
+
+                I am newbie!
+I want to create a django application that sends mail. it worked well on localhost, but when I deployed it, it stopped working because the host doesn't support smtp. He suggested using ...
+            
+@oneku
+----------------------------------------------------------------
+******see every database entry in SqlAlchemy******
+
+                I have the following db model :
+class Certificate(db.Model):
+    id = db.Column(db.Integer, primary_key=True)
+    name = db.Column(db.String(10000))
+    partner = db.Column(db.String(150))
+    expire =...
+            
+@y0sh1da
+----------------------------------------------------------------
+******bat file is triggering different path instead of what was mentioned inside it******
+
+                i am trying to trigger a jupyter notebook to use qgis modules and here is the file i am using
+@echo off
+call "%~dp0\o4w_env.bat"
+@echo off
+path %OSGEO4W_ROOT%\apps\qgis\bin;%PATH%
+set ...
+            
+@Satya Pamidi
+----------------------------------------------------------------
+******How to get multiple values from a model field into a form choice field?******
+
+                I have a model called Listing that has a field called categories that stores all the different categories. There is also a form with a field called categories that should show a choice field to the ...
+            
+@tices
+----------------------------------------------------------------
+******Defining `__iter__` method for a dask actor?******
+
+                Is it possible for a dask actor to have an __iter__ method as defined by a class? Consider this example adapted from the docs:
+class Counter:
+    """A simple class to manage an ...
+            
+@SultanOrazbayev
+----------------------------------------------------------------
+******Pybind11: How to access the property method of a python object in the C++?******
+
+                In the following code, I want to access the property method of a python object by pybind11 (v2.4.3), but get TypeError: 'str' object is not callable. If I comment out the @property decorator, the code ...
+            
+@Yulong Ao
+----------------------------------------------------------------
+******Comparing two pandas dataframe cells, and if equal ==, copy other content over - results in error******
+
+                I am importing excel files with products and product specific data. They look like this:
+dfA
+EAN Code    Product Name    Color    Price
+12345       AAA             xxx      9
+45678       BBB           ...
+            
+@Sapperlott
+----------------------------------------------------------------
+******Subtract 16 bit tiff image in python******
+
+                I have two 16 bit tiff image, of which one is a background and I have to remove it from all the image. I use the following code, however I get the error saying
+
+return image1._new(image1.im....
+            
+@vashista
+----------------------------------------------------------------
+******passing url as a parameter through command line Selenium/Python******
+
+                I have the following piece of code:
+def go_to_dev_vesting():
+    driver.instance.get('https://example.com/')
+    driver.instance.maximize_window()
+
+How would I approach having that example URL passed ...
+            
+@DZR
+----------------------------------------------------------------
+******Python could not find installed pyinstaller module******
+
+                I am using Mac OS Big Sur and Python 3.7. I am trying to create an executable file from my python script with pyinstaller, but my python interpreter could not find pyinstaller even though it seems to ...
+            
+@lil_lil
+----------------------------------------------------------------
+******gspread api getting 500 internal error with get requests only , I can update cells but can't read******
+
+                I have a gspread project that reads and updates multiple sheets daily
+suddenly one of the sheets I can update but can't read and getting
+APIError: {'code': 500, 'message': 'Internal error encountered.'...
+            
+@mohsen.21
+----------------------------------------------------------------
+******How to separately measure time spent suspended and blocking for a given coroutine in python?******
+
+                Suppose I have a coroutine function in python that looks like this :
+async def foo():
+    time.sleep(1)
+    await asyncio.sleep(1)
+
+Which blocks for 1 second and suspends for another second without ...
+            
+@curlybracketenjoyer
+----------------------------------------------------------------
+******How do I fix modin pandas?******
+
+                Basically my code in python is this:
+import os
+from distributed import Client
+client = Client()
+os.environ["MODIN_ENGINE"] = "dask"
+import modin.pandas as pd
+
+when I run it on ...
+            
+@Anonymous
+----------------------------------------------------------------
+******PySpark v3.2.1 WARN DAGScheduler: Broadcasting large task binary with size 5.4 MiB******
+
+                I am totally new to PySpark, dataset used is around 500Mb in size the issue come up while fitting the ALS model
+PySpark giving warning and getting terminated with error:  
+22/07/22 00:04:34 WARN ...
+            
+@IknewIt
+----------------------------------------------------------------
+******Converting PyQt5 to PyQt6 : 'there is no matching overloaded signal'******
+
+                I'm pretty new with GUI and PyQt programming and tried to convert my PyQt5 code to PyQt6 but one connection doesn't work anymore.
+Here's the error :
+Error is : line 22, in __init__
+    self....
+            
+@theo
+----------------------------------------------------------------
+******How scipy.ndimage.median_filter works for even sizes******
+
+                Has someone found/understood how works scipy.ndimage.median_filter for even sizes?
+Because I tested a lot of theories and tried to read the source code, but I haven't an explanation
+(Of course it's ...
+            
+@Mariia Tkachenko
+----------------------------------------------------------------
+******keras class_weights creates the error "InvalidArgumentError: Graph execution error:"******
+
+                I am training a time series LSTM model on Keras for a binary classification problem. 
+The labels are quite unbalanced (0s are ~75%).
+That influenced my results, and therefore I decided to correct for ...
+            
+@ArieAI
+----------------------------------------------------------------
+******Group a pandas DataFrame with MultiIndex columns for axis=0******
+
+                I have a pandas DataFrame with a MultiIndex on the columns and want to group it by the values of all columns under the level baz. While this is straightforward for a DataFrame without a MultiIndex (df....
+            
+@spettekaka
+----------------------------------------------------------------
+******replacing an url in a browser automatically with python******
+
+                when I enter the youtube URL in my browser I want the URL to automatically change and visit a different website (invidio.us). Can someone provide any pointers as to how to achieve this with Python?
+            
+@NarwahlsMeow
+----------------------------------------------------------------
+******i got an error on my image classsifcation model******
+
+                from hugsvision.dataio.VisionDataset import VisionDataset
+train, test, id2label, label2id = VisionDataset.fromImageFolder(
+'/kaggle/working/data/',
+  test_ratio   = 0.15,
+  balanced     = False,
+  ...
+            
+@j9925 _
+----------------------------------------------------------------
+******Pyspark to map the exchange rate value in dataframe******
+
+                I have two dataframes df1 and a  a separate dataframe for USD exchange_ratedf2:
+#df1#
+from_curr
+to_curr
+Date
+value_to_convert
+AED
+EUR
+2017-01-12
+2000
+AED
+EUR
+2018-03-20
+189
+UAD
+EUR
+2021-05-18
+12.5...
+            
+@f.ivy
+----------------------------------------------------------------
+******How to combine two pandas dataset based on multiple conditions?******
+
+                I want to combine two datasets in Python based on multiple conditions using pandas.
+The two datasets are different numbers of rows.
+The first one contains almost 300k entries, while the second one ...
+            
+@Giammaria Giordano
+----------------------------------------------------------------
+******chrome error while trying to open it from PyCharm******
+
+                https://xn--www-nt0aa.google.com/ am getting such a error message in chrome when try to launch chrome from PyCharm for a selenium QA project. can anyone help me pls
+            
+@richi
+----------------------------------------------------------------
+******Pandas creating a column comparing with different sheets******
+
+                My excel includes id of users in current sheet/user sheet and id and name of the users in another sheet/name. I need to compare id and add the name of users in user sheet.Just as shown in figure.
+            
+@Jack
+----------------------------------------------------------------
+******ERROR EXTRACTING DATA IN JSON - AttributeError: 'str' object has no attribute 'get [closed]******
+
+                I'm currently trying to creating and testing a script that can extract the data in a certain file, but when I run my script I encounter an error "AttributeError: 'str' object has no attribute '...
+            
+@Rex Skys
+----------------------------------------------------------------
+******GooeyParser Input ends with "\"******
+
+                Hello I want to create a Program where the user is able to choose a direction. When I use the widget: DirChooser the created input is for example: D:\
+Without the eval() function I am not able to ...
+            
+@sb1
+----------------------------------------------------------------
+******Manually create tensor value by value******
+
+                Is there a way to create a tensor procedurally?
+I mean, given some strange algorithm, doing something like this:
+tensor = tf.?
+for i in range(...):
+  # some logic
+  tensor[i,j,k,...] = some_value
+
+...
+            
+@Alberto Sinigaglia
+----------------------------------------------------------------
+******How to write this matplotlib function in plotly?******
+
+                so I'm very new to Plotly and I want to know how should I write the following function in plotly instead of matplotlib:
+def _commonSpace_2D(self, embedding, comp=[0, 1], colLabels=None, data_name=&...
+            
+@Nadia Nadou
+----------------------------------------------------------------
+******Find the best combinaisons of variables to regroup duplicates data between two dataframes******
+
+                I have two DataFrames of clients, and between these two, I can have duplicate clients with same name, same birth date, email, same tel number, etc... but a different ID ! And my goal is to create an ...
+            
+@Mop
+----------------------------------------------------------------
+******How to combine rows of pandas dataframe only for the first column?******
+
+                most_wickets_2021 = pd.read_html("https://stats.espncricinfo.com/ci/engine/records/bowling/most_wickets_career.html?id=13781;type=tournament")[0]
+most_wickets_2021
+
+Link to where I got the ...
+            
+@Shayan Yasir
+----------------------------------------------------------------
+******Sort python numeric list based on frequency of occurrence of numbers [closed]******
+
+                I have an input list as follows. How can i get the output list (op_lst) without using any external imports or sorting and by just using simple iterations in python?
+inp_lst = [2,5,1,1,4,5,1,5,1,4] 
+...
+            
+@shivani parab
+----------------------------------------------------------------
+******What would be the regex pattern for the following?******
+
+                I have multiple regex strings in format:-
+Example:
+A='AB.224-QW-2018'
+B='AB.876-5-LS-2018'
+C='AB.26-LS-18'
+D='AB-123-6-LS-2017'
+E='IA-Mb-22L-AB.224-QW-2018-IA-Mb-22L'
+F='ZX-ss-12L-AB-123-6-LS-2017-BC-...
+            
+@pratham bhatia
+----------------------------------------------------------------
+******Replace integers with np.NaN in cudf dataframe******
+
+                I have a dataframe like this
+df_a = cudf.DataFrame()
+df_a['key'] = [0, 1, 2, 3, 4]
+df_a['values'] = [1,2,np.nan,3,np.nan]
+
+and I would like to replace all 2s with np.nan
+usually in pandas dataframe I ...
+            
+@paka
+----------------------------------------------------------------
+******Importing CSV into pandas with one column that contains all column names and another containing all the values******
+
+                I want to import a CSV into pandas. I currently use a for loop and turn the CSV into a dictionary before turning it into a data frame.
+The data looks like this:
+| row id | attr name | attr value |
+| ...
+            
+@Zen Zac
+----------------------------------------------------------------
+******negate multiple pattern ranges [duplicate]******
+
+                I am trying to match different symbols in string with the negation of multiple pattern ranges. While the following regex worked on online tools like https://regexr.com/, it did not work in code. ...
+            
+@tbraden
+----------------------------------------------------------------
+******Plotting a frequency line graph using matplotlib******
+
+                I am trying to learn to plot with matplotlib however I can't seem to make a line graph where the
+x - axis is the value from a text file and the y - axis is the frequency of the value in the file
+...
+            
+@user19579995
+----------------------------------------------------------------
+******Change conda default environment in Windows powershell******
+
+                I am an Anaconda user either if I open the Powershell through the Anaconda Powershell batch or normally from Windows, I got this prompt:
+(base) PS C:\Users\yt75534>
+
+I have upgrade my Anaconda 64 ...
+            
+@Barzi2001
+----------------------------------------------------------------
+******Parameter passing from python numpy array to std::vector uint8 array in C++ GNU radio function block******
+
+                I am trying to perform frame synchronisation of a "Hello World" message that I transmit over GNU Radio. Initially I add a training sequence before the message and a padding bits before and ...
+            
+@prashanth kumar
+----------------------------------------------------------------
+******Change the data source of a pivot table with xlwings******
+
+                I am currently using the xlwings package to manipulate an excel file. So far, this package is fantastic, but I do not find a lot of specific documentation on how to modify a pivot table. My main ...
+            
+@Pablo Armendariz
+----------------------------------------------------------------
+******Is this way of finding the inverse matrix in NumPy numerically stable?******
+
+                I am working on implementing Ridge regression in python. At some stage I need to invert a square matrix (X^T X). I was told using  np.linalg.inv() is not numerically stable and I should use another ...
+            
+@qmd
+----------------------------------------------------------------
+******Replacing unicode character with similar character from standard utf-8 english******
+
+                I was building a database with python/mysql by parsing a data file.
+At a point, the file contained the character 'р'. When the mysql query gets that as input, it breaks.
+So the problem is the above is ...
+            
+@Subrata Rabidas
+----------------------------------------------------------------
+******Newline \n gets added as a node when using Tdot command graphviz******
+
+                I have a networkx Digraph in Python, and I wish Graphviz to add positions to each node. To do this I export the graph to a dot file. The result of this is:
+strict digraph  {
+"EMSE = -0.131";
+...
+            
+@Timothy
+----------------------------------------------------------------
+******MYSQL/MariaDB - This version of MariaDB doesn't yet support 'LIMIT & IN/ALL/ANY/SOME subquery'******
+
+                I try to transfer my python script for the database from SQLite to MariaDB.
+This is the code that i use.
+UPDATE users SET x = (%s) WHERE id IN (select id FROM users WHERE user_id = (%s) ORDER BY id ...
+            
+@Traianik
+----------------------------------------------------------------
+******Parse any dates format in python******
+
+                dates can be any format like
+"23-May", %y/%b
+"04-2023",
+"1-Dec-23",
+"1/8/2023",
+"8/1/2022",
+"08/2023",
+"01012022" //%d%m%Y,
+"...
+            
+@Hardik Karena
+----------------------------------------------------------------
+******Each json output result into individual csv file******
+
+                I have many json files under /home/user98/report/ location and for each json file the output need to convert into csv file individually.
+I have the following python code to convert.
+import pandas as ...
+            
+@user4948798
+----------------------------------------------------------------
+******How to make a message update by a bot after a certain time Discord.py******
+
+                I'm having a problem updating json data. I want the bot to change its message when it checks the number of players on the server minecraft, and it is updated every 5-10 minutes. Here is the part of ...
+            
+@mrprogrames
+----------------------------------------------------------------
+******Filtering long format Pandas DF based on conditions from the dictionary******
+
+                Imagine I have an order for specialists in some coding languages with multiple criterion in JSON format:
+request = {'languages_required': {'Python': 4,
+                                  'Java': 2},
+   ...
+            
+@Freejack
+----------------------------------------------------------------
+******i want to connect multiple MySQL host in python flask******
+
+                we want to create a separate new project setup with multiple MySQL hosts connection in the python flask framework. need to create a rough flask framework in blueprint API HTTP router to get data from ...
+            
+@priya
+----------------------------------------------------------------
+******OSError [WinError 123] when using Jupyter within VS Code******
+
+                I have used the Jupyter widget # %% within VS code all the time with no issue. Recently, I've gotten the error message
+Failed to start the Kernel. 
+OSError: [WinError 123] The filename, directory name,...
+            
+@user10696147
+----------------------------------------------------------------
+******PANDAS - remove a part of a string based on the last occurrence of a character******
+
+                I have a data-frame:
+df1 = pd.DataFrame({'Item': ["SYD_QANTAS AIRWAYS : LTD_DOC-Turn Cost :Sep", "SYD_QANTAS AIRWAYS LTD_DOC-Turn Cost :Jul", "SYD_QANTAS AIRWAYS LTD_DOC-Turn ...
+            
+@toerag
+----------------------------------------------------------------
+******Concurrent Pagination over Postgres Table with PonyORM******
+
+                I have a Postgres DB with a table of thousands of rows.
+I also have Lambda functions that query the rows with pagination. As stated in PonyORM docs, one can paginate like:
+g.students.order_by(Student....
+            
+@Michael Boesl
+----------------------------------------------------------------
+******Python Erro containing main******
+
+                hi everyone i am trying to run the below attached piece of code but it is giving me the error of main is not defined although i have tried to wrap it in both single and double quotes as well...
+import ...
+            
+@osama afzal
+----------------------------------------------------------------
+******How to find most frequent word which comes in column in pandas dataframe******
+
+                import pandas as pd
+import numpy as np
+df = pd.DataFrame({'City': ['Pune', 'Mumbai', 'Pune', 'Mumbai', 'Pune'],
+        'Name': ['John', 'Boby', 'John', 'Boby', 'Nicky'], 
+           'Competition': ['...
+            
+@anjali joshi
+----------------------------------------------------------------
+******Multiprocess.Process not exiting while target function returns******
+
+                I spawn a subprocess which simply copy data from one queue to another. The problem is: after subprocess`s target function return, the subprocess seems not exsiting as expect. It hangs on the pdet.join(...
+            
+@momo
+----------------------------------------------------------------
+******How to use speech recognition module in python and use it in another program******
+
+                I have made a web browser by using python and I need to use speech recognition to control it (eg: open a tab, Close a tab, type Url)
+import speech_recognition as sr
+
+listener = sr.Recognizer()
+
+class ...
+            
+@Lahiru Tharaka
+----------------------------------------------------------------
+******Building an hyperplane from a set of points in Python******
+
+                I have an hyperplane implementation that looks like this:
+
+class Hyperplane:
+    """This is a generalization of the plane in n dimensions
+    
+    @param unit_normal_vector: the vector ...
+            
+@Xiiryo
+----------------------------------------------------------------
+******Django: how to save form and perform math operation with along side saving the form in django?******
+
+                i am trying to save a form, and after i want to get the new_balance and update the value, i have a function that would save a form, and the form have a field amount, so what i want is this, if i save ...
+            
+@Destiny Franks
+----------------------------------------------------------------
+******Nested loop throuh a dataframe and compare it's string column values with a list of string tuples and create a new column conditionally?******
+
+                I'm using Python 3.9.12 to do some data manipulation. I have a dataframe, df that looks like this:
+      name1      name2           region_name
+0     Salo       saloo           UPPER SINDAN
+1     ...
+            
+@Hoss
+----------------------------------------------------------------
+******Configure username for keyring password lookup globally in Pip******
+
+                I installed keyring such that I can store my Python package index credentials in the system keychain when installing packages with Pip. Unfortunately, Pip keeps asking for my username to look up the ...
+            
+@Niklas R
+----------------------------------------------------------------
+******Why request.args.get parameters have two strings and what actually request.args.get returns on attached example******
+
+                I’m new in python and flask and I'm trying to understand how request.args.get is working.
+To practise this I'm building a movie library based on
+https://developers.themoviedb.org/3/movies/get-upcoming....
+            
+@lukaszr82o2pl
+----------------------------------------------------------------
+******Can not access a Pandas index like a regular column******
+
+                def read_csv(file_name):
+    df = pd.read_csv(file_name, header=None, thousands=',')
+    df.columns = ["date", "open", "high", "low", "close", "...
+            
+@Arteml
+----------------------------------------------------------------
+******UDP socket not receiving data from peer in python******
+
+                I have a p2p simple chat app in python. A server code receives the IP and port of peers and sends each peer address to another:
+import socket
+
+sock = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
+...
+            
+@mimskydo
+----------------------------------------------------------------
+******Use commands to open, wait, save and close a file [closed]******
+
+                How can I do the following things entirely through Python commands:
+
+Open an excel file (in the way that a window for this file can appear)
+Wait until something expected is detected
+Save and close ...
+            
+@LinsZ
+----------------------------------------------------------------
+******Is there a solution for the "SyntaxError: (unicode error)" [closed]******
+
+                I'm trying to unzip a file with this Python code :
+import zipfile
+
+myZip1 = r'C:\Users\_M92\Desktop\PythonOutputs\ZIP\a-34-b-shp.zip' #with a raw string
+myZip2 = 'C:\\Users\\_M92\\Desktop\\...
+            
+@M92_
+----------------------------------------------------------------
+******Can anyone help me write some code? It's pretty easy but I'm too dumb to understand******
+
+                The question is:
+
+Enter a minimum and maximum number followed by a unknown number.
+If this number is not within the maximum and minimum values, the programming will be stopped.
+When it is less than 50,...
+            
+@ethan
+----------------------------------------------------------------
+******How to import orders best way from XML******
+
+                I need to respond to orders. The orders come in XML format. I know there is a better way. Here is what I have:
+import sqlalchemy
+import xml.et.ElementTree as et
+def parse_xml(tree,engine):
+from ...
+            
+@modflanders
+----------------------------------------------------------------
+******Yandex Oauth2 social_django 400 Unknown client with such client_id******
+
+                When i used 'social_core.backends.yandex.YandexOAuth2',
+yandex returned it to me:
+400 Unknown client with such client_id,
+what i can do?
+my setup settings.py
+INSTALLED_APPS = [
+    'django.contrib....
+            
+@Foldren
+----------------------------------------------------------------
+******How to get all stop words from Spacy and don't get any errors? TypeError: argument of type 'module' is not iterable******
+
+                How to get all stop words from spacy.lang.en and don't get any errors?
+from spacy.lang.en import stop_words as stop_words
+def tokenize(sentence):
+    sentence = nlp(sentence)
+    # lemmatizing
+    ...
+            
+@Leyla Elkhamlichi
+----------------------------------------------------------------
+******How to remove video background with ffmpeg?******
+
+                Is there a way in ffmpeg-python to remove a single colored green screen background and to replace it with another video?
+So I have a video "test.mp4". It is basically a man talking in front ...
+            
+@Billi Alt
+----------------------------------------------------------------
+******Interpolate NaN values in a large numpy array******
+
+                I want to replace all NaN values in a numpy array (63*479060).
+I referred to this question Interpolate NaN values in a numpy array and tried the following code but it does not give the results of ...
+            
+@r.carnahan
+----------------------------------------------------------------
+******Merge 2 cells in Google slide table using python******
+
+                I need help from our community regarding google slide.
+Can you please let me know how to merge 2 cells together using google slide api via python?
+I tried so many different combinations but still not ...
+            
+@Saif Khan
+----------------------------------------------------------------
+******Checkboxes in a pandas dataframe plot******
+
+                i have the problem that i want to display a dataset which i import with read_csv from pandas. I can display it in a line chart, thats fine but i want also to select the lines i want to see that the ...
+            
+@trustmeimanengineer
+----------------------------------------------------------------
+******Use a proxy to connect to Telegram******
+
+                I use the following code of wtelegram to connect via proxy:
+https://github.com/wiz0u/WTelegramClient/blob/master/EXAMPLES.md#proxy
+    client.TcpHandler = async (address, port) =>
+    {
+        var ...
+            
+@Đinh Ngọc Minh
+----------------------------------------------------------------
+******Generate similarity matrix from Mahalanobis distance matrix******
+
+                Is there any way I can generate a similarity matrix, if I already have a Mahalanobis distance matrix for a large set of values?
+I would like to generate similarity measures between each vector in my ...
+            
+@harjon
+----------------------------------------------------------------
+******Pymongo updating documents using list of dictionaries [duplicate]******
+
+                I have a list of dictionaries(sample mentioned below). I need to add a new column to the db based on the '_id' column which will be different for each documents.
+lst = [{'_id': '...
+            
+@GeekGroot
+----------------------------------------------------------------
+******How to plot a bar plot/histogram with labels of a variable from a dictonary?******
+
+                Sample graph output
+I have a dataframe which consists of many columns of categorical variables. Each column has values which are categorical (For eg, A, B, C, D, etc where they represent a particular ...
+            
+@Abhishek P
+----------------------------------------------------------------
+******I m posting a API with a payload with 5 parameters but the problem is IT throws the error that first parameter is missing******
+
+                Create Session  mysession  http://abc.comverify=true
+&{body}=
+Create Dictionary     Param1=Key value   param2=id of the sender   param3=87777878  param4=message to be senrr    param5=json
+&{...
+            
+@Vandna Rajput
+----------------------------------------------------------------
+******Flask Rate Limiter not working with flask-restful******
+
+                I believe I have the same problem as described here: Flask-Limiter does not work with Flask-Restful API-based application. But I still can't get it to work. Here's my problem:
+
+I have an app.py where ...
+            
+@Philippe Willi
+----------------------------------------------------------------
+******python copy method is not keeping the original array as it is [duplicate]******
+
+                I'm trying to make a copy of an array and maintain the original one while modifying the new array. but whenever I do changes to the new array it reflects on the old one like below.
+    ppot1 = [[-2....
+            
+@asem assaf
+----------------------------------------------------------------
+******How to iterate through all files in firebase storage?******
+
+                My goal is to iterate through a bunch of pdfs (purchase orders) and extract certain details using regex. I have successfully been able to extract the required details from the pdfs present in a folder ...
+            
+@Mihir Sanjay
+----------------------------------------------------------------
+******How to join sentences inside data frame column?******
+
+                I have create a sample data frame and it contains a column Called 'Body' and the content of it as below.
+sample['Body'][1]
+'['Former India captains should have shown the maturity to sort out
+the ...
+            
+@Tharika Ranatunga
+----------------------------------------------------------------
+******Python CSV Writer last value of month from datetime******
+
+                I have problem with Python CSV writer. I need the csv writer to write every month's last value to its own row.
+However, I don't know how to pick the last value of each month from datetime. The problem ...
+            
+@Data analysis
+----------------------------------------------------------------
+******Jinja2 : add two if statements and for******
+
+                I am trying to add two if statements and for loop in jinja. so I want to add if and statement inside if statement. the explanation for the code is if the instruction avalaible it will print the table. ...
+            
+@Shotgun
+----------------------------------------------------------------
+******Combination of Steganography and cryptography [closed]******
+
+                How do you embed an encrypted information into an image
+            
+@Morgan kapansa 
+----------------------------------------------------------------
+******How to put the live data in the queue from subprocess.Popne() stdout or communicate()? functions******
+
+                I'm new to subprocess module of python. I have below piece of code which executes the command on the windos machine and fetches the data from the windows perfmon counters. The command executes over ...
+            
+@Dev
+----------------------------------------------------------------
+******VS Code throws ModuleNotFoundError despite folder available******
+
+                I'm working on creating a Python/PySpark library using VS Code. When I debug, I face the ModuleNotFoundError. Despite of that, I'm able to generate a .whl file, load it in Databricks and import it ...
+            
+@Luiz Viola
+----------------------------------------------------------------
+******How to Autofit columns & handle different data types in the same columns to be specific data type******
+
+                I've a master sheet contains some data for many departments employees, i tried to use python for extracting every department data in another single sheet with a specific format.
+i've tried after a ...
+            
+@Mahmoud Badr
+----------------------------------------------------------------
+******How do i fetch nse option chain data of a particular stock for the NEXT MONTH using python******
+
+                This is the current code for the present month option chain fetching, where eques is an array having all the symbols/equity names. I need to fetch the same data of oi, soi etc which i am fetching in ...
+            
+@T ARYAN RAJU
+----------------------------------------------------------------
+******Regex in python dataframe: count occurences of pattern******
+
+                I want to count how often a regex-expression (prior and ensuing characters are needed to identify the pattern) occurs in multiple dataframe columns. I found a solution which seems a litte slow. Is ...
+            
+@blackmamba
+----------------------------------------------------------------
+******Run script inside Screen with python parallelSSH******
+
+                what I'm trying do to is:
+
+start Screen session
+inside this screen session, execute an alias (which, for completeness, goes into a directory and runs a .sh) inside that screen
+
+and I want to do this ...
+            
+@bruce_springsteen
+----------------------------------------------------------------
+******Python xlsxwriter VLOOKUP in German Excel******
+
+                I trying for hours to get my VLOOKUP working.
+This is an example for an working VLOOKUP before.
+=SVERWEIS(E3;Tabelle2!$C$1:$ZZ$5000;117;0)
+
+I generated the xlsx File with Python XLSWriter.
+With the ...
+            
+@coder338
+----------------------------------------------------------------
+******Evaluate xpath expression in xml body in python******
+
+                I have an xpath with some php functions that needs to be evaluated against an xml body.
+The expected result should be true or false.
+Sample xpath:
+condition 1 and
+condition 2 and
+boolean (
+ 
+    [
+    ...
+            
+@Eddie Vuong
+----------------------------------------------------------------
+******How to Integrate agora server with Django rest framework?******
+
+                'How to generate real time agora token through my Django rest framework for video call'
+            
+@Abinash Das
+----------------------------------------------------------------
+******Django User cannot login******
+
+                I made a simple register and login script, the register script works and sends the user information to a database but the login does not log the user in.
+This is the login function in views.py:
+from ...
+            
+@Joolpool
+----------------------------------------------------------------
+******Why are my DALL-E Images Coming Out So Desaturated After Resizing?******
+
+                I'm very new to ML image manipulation/creation, so if I confuse you all with my own lack of knowledge on the subject, I apologize in advance.
+I'm attempting to increase the resolution of images ...
+            
+@David R
+----------------------------------------------------------------
+******CS50 python outdated. except clause not executing******
+
+                This is my solution to CS50, PSET3 outdated problem. the While loop is working for 'try' clause but not for the first 'except' clause.
+https://cs50.harvard.edu/python/2022/psets/3/outdated
+month_list =...
+            
+@Prateek Chaturvedi
+----------------------------------------------------------------
+******Pairwise Cosine simialrity between large datasets******
+
+                I have a large dataset of of ~40kk tweets and want to detect bot tweets within the sample. I therefore split the saple into subsamples of 100k tweets each and calculate the pairwise cosine similarity ...
+            
+@Dalogh
+----------------------------------------------------------------
+******Find out the combine arrays which have the smallest variance from given array? [closed]******
+
+                I am working on a problem (in Python) that requires me to find the combination which have the smallest variance from given array. For example, I have array look like this
+
+a = [30,40,50,60,70]
+
+So I ...
+            
+@Nova-Alex
+----------------------------------------------------------------
+******Reason of pretrained model's poor test accuracy?******
+
+                I was practicing using pretrained vision transformer model from timm with CIFAR-100 dataset.
+I didn't expect high accuracy at all but it was showing zero accuracy.
+Without just changing the number of ...
+            
+@hyukiggle
+----------------------------------------------------------------
+******Facing Error while writing spark Dataframe to Sql Server******
+
+                i was trying to load a table from mysql database and write it to sql server. I have successfully loaded the data to pyspark dataframe. But when i tried to load it to sql via to_sql() i faced error. I ...
+            
+@Mark
+----------------------------------------------------------------
+******APScheduler is not starting on runserver in django******
+
+                I followed a particular tutorial to implement APScheduler in my application but when I run my project the job is not called at all and I am having a hard time figuring what I did wrong
+The project ...
+            
+@Rahul Sharma
+----------------------------------------------------------------
+******how the selecect the ssid the from list of ssid in python******
+
+                I wanna see the list of ssids and then select one of them , ask to users password then connect the this wifi
+I wrote this code but I couldn't the continue the select one ssid
+'''
+# importing the ...
+            
+@YAREN COSKUN
+----------------------------------------------------------------
+******how can I iterate through variables or lists without using the number as my list name in a loop [duplicate]******
+
+                I am trying to make a card game and want to access different players hands at different stages in a loop. I also want the code to not break if not all players are used. Draw is a function to give a ...
+            
+@william
+----------------------------------------------------------------
+******Twilio Human Voice Detection in outbound call [closed]******
+
+                We already have used AMD and referred doc from below link
+https://www.twilio.com/docs/voice/answering-machine-detection
+but, problem is when call is initiated and receive By answering machine it shows ...
+            
+@Shailesh Patel
+----------------------------------------------------------------
+******Applying rolling function with second data frame******
+
+                Let's take two datasets:
+import pandas as pd 
+import numpy as np
+df = pd.DataFrame([1, 2, 3, 2, 5, 4, 3, 6, 7])
+
+check_df = pd.DataFrame([3, 2, 5, 4, 3, 6, 4, 2, 1])
+
+I want to do the following thing:
+...
+            
+@John
+----------------------------------------------------------------
+******discord.ext.commands.errors.CommandInvokeError: Command raised an exception: ClientException: ffmpeg was not found******
+
+                I made a music bot on Replit but, when running my code I get this error:
+discord.ext.commands.errors.CommandInvokeError: Command raised an exception: ClientException: ffmpeg was not found.
+Can someone ...
+            
+@MST
+----------------------------------------------------------------
+******Colorize CSS and JavaScript in HTML******
+
+                How to colorize CSS and JavaScript in HTML?
+I can’t do it.
+Example:
+    import wx
+    import wx.stc as stc
+        class htmlSTC(stc.StyledTextCtrl):
+            def __init__(self, parent):
+           ...
+            
+@bul
+----------------------------------------------------------------
+******extract rectangular shape id card area from an image******
+
+                I have a hundreds of ID card images which some of them provided below:
+
+(Disclaimer: I downloaded the images from the Web, all rights (if exist) belong to their respective authors)
+As seen, they are ...
+            
+@bit_scientist
+----------------------------------------------------------------
+******Python/Kivy - Button font_size doesnt change******
+
+                i have a little problem :
+when i create a button or a label in .kv file :
+<ResultScreen>:
+    container: container
+
+    GridLayout:
+        rows: 3
+        cols: 1
+        Button:
+            id:...
+            
+@Fun Facts
+----------------------------------------------------------------
+******Why can't my Python program find my file?******
+
+                Note: I’m using Windows and this program will also have to run on Mac.
+I'm writing a Python app that needs to read from and write to a JSON file, which I implemented in src/resources.py:
+import json
+...
+            
+@redpepper74
+----------------------------------------------------------------
+******Why a python package shows different versions using __version__ and pip (same directory)******
+
+                I have carefully checked the environment, and the two methods shows the same package directory:
+>>> !pip show astropy
+Name: astropy
+Version: 5.1
+Summary: Astronomy and astrophysics core ...
+            
+@Hangci Du
+----------------------------------------------------------------
+******Can Appium be detected?******
+
+                Is there any way that Appium be detected as a bot session/user session by native/hybrid applications on android?
+I know selenium can easily be detected fairly easily even with mediocre efforts at ...
+            
+@bounyh
+----------------------------------------------------------------
+******Using multiprocessing and trying to use data in queue and print result from that data as soon as data get in multiprocessing queue******
+
+                I'm trying to use multiprocessing in my code to make it efficient.
+My algorithm goes like this:
+I'm continuously getting live data from a website. When 1 seconds get completed, I'm putting my ...
+            
+@User1917931829
+----------------------------------------------------------------
+******Best practice for communications between different units in python******
+
+                I revisited the development of an application in python I wrote 5 years ago  (It was my first interesting project/application in python 2.7, and as I revisit it now I am struggling to make heads or ...
+            
+@NMech
+----------------------------------------------------------------
+******FastAPI handling camelCase and PascalCase same time******
+
+                How can I handling PascalCase and camelCase requests bodies to snake_case same time in FastAPI app?
+I tried to use middleware and routerHandler to replace camelCase to PascalCase, but it works not so ...
+            
+@karvetskiy
+----------------------------------------------------------------
+******Python Plotly Dash: create callback for each item in a div, which was updated by another callback******
+
+                I have a 3-column display grid, which would be populated on load of page by a callback:
+display_card_table = html.Div(id="table_display", children=
+    [], className="mb-4"
+)
+
+...
+            
+@Dan
+----------------------------------------------------------------
+******Data Must be padded to 16 Bytes******
+
+                I am trying to encrypt and decrypt an image using AES.
+When I decrypt the image is says: Data must be padded to 16 byte boundary in CBC mode
+I have also tried using CFB but in that case it says: Can ...
+            
+@Rehman Ali
+----------------------------------------------------------------
+******Duration of videoWriter being controlled with fps and frame Count (OpenCV & Python)******
+
+                When use the code below, it gives me a video from stream which has desired number of frames and FPS I choose. However, video length becomes  duration =(1/fps)*frameCount. I guess that mp4 does video ...
+            
+@Uce
+----------------------------------------------------------------
+******Adding windows to a QStackedWidget in Qt designer doesn't work as expected******
+
+                I am currently working on a project that involves developing a GUI, that I can send emails to someone and if I need I should be able to save it on a database. The GUI has two pages, the senders ...
+            
+@tad
+----------------------------------------------------------------
+******Setting value to default in a django for loop******
+
+                I've been stuck on a rather simple issue, where i'm trying to either set a value on a variable in a for loop, or setting the default data to N/a.
+I set up a datatable that gathers lots of data, but i ...
+            
+@Ivo S.
+----------------------------------------------------------------
+******discord.py How can I extract all channels in the category I specified?******
+
+                @commands.command()
+async def c(self, ctx):
+   category = discord.utils.get(ctx.guild.categories, id=941749835328012328)
+   channels = category.channels
+   print(channels)
+   ids = discord.utils.get(...
+            
+@Smh 
+----------------------------------------------------------------
+******Interpolate NaN values in a large numpy array******
+
+                I want to replace all NaN values in a numpy array (63*479060).
+I referred to this question Interpolate NaN values in a numpy array and tried the following code but it does not give the results of ...
+            
+@r.carnahan
+----------------------------------------------------------------
+******Merge 2 cells in Google slide table using python******
+
+                I need help from our community regarding google slide.
+Can you please let me know how to merge 2 cells together using google slide api via python?
+I tried so many different combinations but still not ...
+            
+@Saif Khan
+----------------------------------------------------------------
+******How to remove all lines with caps AND digits AND special characters AND all the lines longer than 10 characters from a text file?******
+
+                I have a text file with all existing words in the Dutch language and I need only the words with a specific amount of characters, without any digits or special characters or capitals. I tried to do it ...
+            
+@HansK
+----------------------------------------------------------------
+******Delete duplicates and sort tab by dates in Python******
+
+                I receive as input a table in which there will be two data per line, a date and an associated value. I am looking for one or more methods that could filter the table to remove the rows that exist in ...
+            
+@Hug
+----------------------------------------------------------------
+******Split string if separator is not in-between two characters******
+
+                I want to write a script that reads from a csv file and splits each line by comma except any commas in-between two specific characters.
+In the below code snippet I would like to split line by commas ...
+            
+@finjasnappy
+----------------------------------------------------------------
+******How to compare dates for a nested dictionary values******
+
+                Data={
+    0:{
+       'country1': "Ryan lives in America",
+       'country_one': "5",
+       'med_dict':{
+          0: {
+              'endDate': "732",
+              '...
+            
+@Mithel
+----------------------------------------------------------------
+******run python on macOS with admin privilege******
+
+                I am trying to make a keyboard shortcuts program using pythons keyboard library. currently it works as expected on windows, however when I run it on Mac I get the following error
+Exception in thread ...
+            
+@TB543
+----------------------------------------------------------------
+******The request url not found o this server - when i try to run cgi script connected with html form and mysql dtabase could not insert data******
+
+                so this is my .py file which i have connected with my html form.
+#!C:\Program Files\Python39\python.exe
+print("Content-type:text/html\r\n\r\n")
+print()
+
+import cgitb;cgitb.enable()
+import ...
+            
+@RameshRamanathan
+----------------------------------------------------------------
+******PySide6 QQmlApplicationEngine failed to load component******
+
+                Hello I designed an my UI using Qt Design Studio (Community Edition) and exported it to a qrc file then compiled to Python using pyside6-rcc then loaded the main.qml file inside main.py using "...
+            
+@joshua Franklin
+----------------------------------------------------------------
+******Trying to use multiprocessing queue but unable to get the desired results******
+
+                I'm trying to use python multiprocessing.Queue in my code:
+import multiprocessing as mp
+import datetime as dt
+def function_to_get_from_q(Queue):
+    #while not Queue.empty():
+      print(Queue.get())
+...
+            
+@User1917931829
+----------------------------------------------------------------
+******Can't use Selenium with for loop******
+
+                I am trying to write a program with for loop and for that I need to declare Selenium webdriver before the loop.
+Each time I am trying to do it I get an error. Like the loop doesn't recognize driver....
+            
+@unifari56
+----------------------------------------------------------------
+******Get multi-array slicing outputs as array of arrays instead of just one array******
+
+                (I found it a bit difficult phrasing the title - please feel free to suggest another title)
+I have two numpy `ndarray`` like this:
+targets = np.array([["a","b","c"],[&...
+            
+@CutePoison
+----------------------------------------------------------------
+******Python - Panda3D - Display HTML/CSS elements into Panda3D scene******
+
+                My hello message is not visible...
+I'm writing a 3D video game using Python (3.10) language with Panda3d (1.10) as 3D game engine.
+Some graphical parts of the game are not 3D, there are just 2D ...
+            
+@Nicolas Metivier
+----------------------------------------------------------------
+******Convert tiled image array into single image array with numpy******
+
+                I followed the process here: How to Split Image Into Multiple Pieces in Python for splitting an image into MxN number of images. I have a 5490x5490 that I split into 100 pieces by using the following:
+...
+            
+@Thomas
+----------------------------------------------------------------
+******What does WSGI add to FastCGI?******
+
+                I have been doing my research and gone through following questions.
+Differences and uses between WSGI, CGI, FastCGI, and mod_python in regards to Python?
+How Python web frameworks, WSGI and CGI fit ...
+            
+@Ahmad Ismail
+----------------------------------------------------------------
+******i want to run my python project remote 24hrs per day******
+
+                I made a python project with a sqlite database.I  want to run it remote all day (on server or smothing like that).
+i tried replit but after a couple of minutes it stop working,how can i do it?
+            
+@xp3ctabl3
+----------------------------------------------------------------
+******Why for loop does do this with 2d list?******
+
+                I was making some codes that repeat same text with variations, but I ran into a problem.
+Here are some codes
+tick = int(input("Start: "))
+end = False
+listname = []
+
+while not end:
+    a = ...
+            
+@WhiteNight1357
+----------------------------------------------------------------
+******Minutes to Hours on datetime column Pyspark******
+
+                I have a pyspark dataframe with a column datetime containing : 2022-06-01 13:59:58 
+I would like to transform that datetime value into  : 2022-06-01 14:00:58 
+Is there a way to round the minutes into ...
+            
+@Sara Stone
+----------------------------------------------------------------
+******Poplib issue with LIST/STAT (-ERR Command not understood)******
+
+                The GMAIL POP3 server does not understand the LIST/STAT command when being sent via poplib. Sending those commands on the same exact mailbox via TELNET works. Initially, I thought this is a GMAIL ...
+            
+@nexus6
+----------------------------------------------------------------
+******lmList, bboxInfo = detector.findPosition(img) AttributeError: 'HandDetector' object has no attribute 'findPosition'******
+
+                [enter image description here][1]
+fix error
+[1]: https://i.stack.imgur.com/zz4RX.png
+            
+@hadia nayab
+----------------------------------------------------------------
+******Conditional method chaining in pandas******
+
+                Is there a simple general way to make a method conditional to an if-statement when using method chaining with pandas?
+Mock example:
+df = pd.DataFrame({'A':['one', 'two'], 'B':['one', 'two']})
+
+...
+            
+@Johan
+----------------------------------------------------------------
+******Using playwright to get the javascript method which fetches the data on scroll******
+
+                Say I have this webpage
+https://www.zomato.com/ncr/dine-out
+I need to get the javascript method which fetches the data on scrolling the web page. There should be some method that gets triggered when I ...
+            
+@Himanshu Poddar
+----------------------------------------------------------------
+******Is it possible if we remove the 2 digits from the right in the list in python? [duplicate]******
+
+                I am totally beginner in python. I wrote the code which gave me the number below. In this number I have a year month and day in the one word string. I want to know how can I remove the days ( I mean ...
+            
+@Saeid Vaygani
+----------------------------------------------------------------
+******loop to select items consequently from drop down list in selenium python******
+
+                There is a list of 4 items I need to loop between the 4 items using (select_by_index) and do a function called reserve() after selecting each item
+My code is:
+driver.get('https://foreupsoftware.com/...
+            
+@Dalia Tawfeek
+----------------------------------------------------------------
+******Can't connect to websocket with 2 client******
+
+                I am trying to build a websocket. In this websocket i have two operation. İf client send me "orderbook" input, i am returning data from redis - (channel-1). If client send me "ticker&...
+            
+@Selman Faruk Yılmaz
+----------------------------------------------------------------
+******Python: Find the peaks of a signal******
+
+                Im trying to find a method to filter data sets that looks almost like this
+The blue is the original signal
+The orange is filtered using average of batches
+the green is the peaks using the scipy....
+            
+@Zee
+----------------------------------------------------------------
+******Camera calibration validation in opencv******
+
+                For validating the calibration of a camera the most used method is the reprojection-error.
+I am having doubts with OpenCV implementation: it uses the same images for extracting the camera parameters ...
+            
+@B__
+----------------------------------------------------------------
+******Matplotlib : How to separate the last subplot line and the last subplot column in a figure?******
+
+                Using matplotlib, I plotted n x n subplots (n=8 in this example):
+fig, ax = plt.subplots(8,8, figsize=(18,10), sharex='col', sharey='row')
+fig.subplots_adjust(hspace=0, wspace=0)
+And I would like to ...
+            
+@Stef1611
+----------------------------------------------------------------
+******Confusing scope in python with exec function******
+
+                I encounter this confusing behaviour when working with the exec() function in Python.
+Code1:
+def add(a, b):
+    exec("c = a+b")
+    print(locals())
+    return 1
+
+add(3,4)
+
+this prints
+{'a': ...
+            
+@Ahmed Elashry
+----------------------------------------------------------------
+******How do I get the size( gb , mb ) of a video in python?******
+
+                class videos(models.Model):
+    caption = models.CharField(max_length=200,null=True)
+    videoes = models.FileField(default='Product.png', null=True, validators=[validators.FileExtensionValidator(...
+            
+@Suru Basnet
+----------------------------------------------------------------
+******insert data into table with pyodbc but there is a "pyodbc.IntegrityError" about FOREIGN KEY******
+
+                Hello I am using pyodbc to insert data into mytable, but there is a "pyodbc.IntegrityError" about FOREIGN KEY.
+When I turn off mytable FOREIGN KEY, it's ok to insert data.
+Did any method can ...
+            
+@陳冠儒
+----------------------------------------------------------------
+******OpenCV python vs C++ performance******
+
+                I've been doing some app using OpenCV first in Python, then I wanted to go to C++ for better perfs.... and it's doing much worse!
+Am I doing anything wrong?
+Even just testing with very easy functions ...
+            
+@Ottunger
+----------------------------------------------------------------
+******Error formatting in Pandas converting excel sheet to json******
+
+                I do have a requirement of converting Excel to Json.
+My Excel is in the format:
+Excel Sheet
+My desired output is:
+[{"Material":"1001",
+  "Address":{"Material":&...
+            
+@Chakraborty
+----------------------------------------------------------------
+******Plotting y, z for certain x******
+
+                I have a graph of (x, y, z) and would like to make another graph of (y, z) for a few of the x-values, e.g. the (y, z) graph for x=40.
+The code I have done so far is below:
+import numpy as np
+from ...
+            
+@Izzy139
+----------------------------------------------------------------
+******Removing empty sublists from nested list******
+
+                How do I get from this:
+a = [[[1, 1], [], [2,2]], [[2,2], [], [1, 1]]]
+
+to this:
+a = [[[1,1], [2,2]], [[2,2], [1,1]]]
+
+quickly? I am trying to use a list comprehension but can't figure it out.
+            
+@Jailbone
+----------------------------------------------------------------
+******python equivalent of C++ z_stream inflate******
+
+                I am trying to decompress a .gz file that comes from a material board with custom headers using python.
+I have as example a C++ file that decompress that file using the inflateInit2 function from the ...
+            
+@Kevin Heirich
+----------------------------------------------------------------
+******python - plot twin y axis not working using dates******
+
+                I'm using python 3.7
+I would like to be able to plot the below data on 2 separate axes, I know the standard way to do this is to use plt.twinx(), but this doesn't seem to work. I think it has ...
+            
+@theotheraussie
+----------------------------------------------------------------
+******Using strict=False in state_dict for using a modified pretrained model in PyTorch******
+
+                I want to remove and modify the code of a pretrained model and for loading this pretrained model I want to use strict=False in the state_dict. Based on the code I'm working with and also based on the ...
+            
+@dtr43
+----------------------------------------------------------------
+******Can i add new column in DataFrame with Interpolation?******
+
+                this is my current DataFrame:
+    Df:
+    DATA
+    4.15
+    4.02
+    3.70
+    3.51
+    3.17
+    2.95
+    2.86
+    NaN
+    NaN
+
+i  alredy know that 4.15(first value) is 100%, 2.86(last value) is 30% ...
+            
+@stefan
+----------------------------------------------------------------
+******while loop in line 36 won't exit despite fulfilling condition******
+
+                The outer while loop should exit when current_digit and powers[digit_of_powers] both equal 26 but the while-loop doesn't exit as it should.
+As a proof of what I'm claiming, see for yourself, the last ...
+            
+@I really need help
+----------------------------------------------------------------
+******Get nearest coordinate in a 2D numpy array******
+
+                I've seen many of the posts on how to get closes value in a numpy array, how to get closest coordinate in a 2D array etc. But none of them seem to solve what I am looking for.
+The problem is, I have a ...
+            
+@Sudhanwa
+----------------------------------------------------------------
+******TypeError at / Accept() got an unexpected keyword argument 'name'******
+
+                I want to take data from user and save it to the database by using Django. Have tried to solve it. But I am not able to solve this problem and didn't find any working solution on the internet.
+I'm ...
+            
+@Karthika Prasad
+----------------------------------------------------------------
+******Why I am getting value error in predict()?******
+
+                I am getting error with pipe.predict() when I pass X_test values.I dont know where it is going wrong.Please help
+from sklearn.model_selection import train_test_split
+from sklearn.compose import ...
+            
+@Gourav 
+----------------------------------------------------------------
+******Modify <a> elements generated by MkDocs and mkdocstrings******
+
+                I'm documenting my Python project using MkDocs and mkdocstrings.
+I want to document all the Classes inside mylib.dir1.dir2.dir3.mymodule and mylib.dir1.dir2.dir3.myothermodule.
+Inside reference.md i ...
+            
+@YuriC
+----------------------------------------------------------------
+******How does Python mark the top three data in a column of data in an Excel table in red******
+
+                This is the code to find the top three
+import pandas as pd
+df = pd.read_excel('test.xlsx')
+Three = df.nlargest(3, 'AAA', keep='all')
+
+Here is the code to change the color
+import openpyxl
+from openpyxl....
+            
+@Winna
+----------------------------------------------------------------
+******Set list as index of Pandas DataFrame******
+
+                I have the following list:
+index_list =  ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h']
+
+I would like to use it to define an index for the following DataFrame:
+df = pd.DataFrame(index= [0,1,4,7])
+
+The ...
+            
+@Michael
+----------------------------------------------------------------
+******How do i predict and print out the r2 score for an ann model using keras?******
+
+                I want to compare the r2 (r square) values for 2 models to determine which one is of a higher predictive accuracy. The 2 models are Ramdom Forest and ANN (using keras). I have successfully gotten the ...
+            
+@Joy Eromonsele
+----------------------------------------------------------------
+******Write values of a dictionary one in each line with DictWriter******
+
+                So I have a Python dictionary with protein sequences and their ids. I wanted to convert that dictionary to a CSV file to upload it as a dataset to fine-tune a transformer. However, when I create the ...
+            
+@eneko valero
+----------------------------------------------------------------
+******How to reference row below in Python Pandas Dataframe?******
+
+                I have a function that gets the stock price (adjusted closing price) on a specific date of the format DD-MM-YYYY. I have a Pandas Dataframe that looks like the following, with a column for date, as ...
+            
+@juanpethes
+----------------------------------------------------------------
+******How can I catch a timeout error in my python programm to keep it running?******
+
+                I have a python programm which calls a rust skript to read sensor data. It runs on a raspberry pi as a iot-device. I get the error below after the programm is running for a few minutes. The duration ...
+            
+@ync-ghr
+----------------------------------------------------------------
+******Spotify web API display output when in function******
+
+                I am having an issue with displaying my output, which is the top nth songs of the nth year.
+This code does not display output when in a defined function, but it does display the output I want when it ...
+            
+@James Sparks
+----------------------------------------------------------------
+******Does Python have the C++ equavalent of (var = value, var)******
+
+                In C++ (and maybe C), you are able to do the following:
+uint8_t one = 0;
+
+if ((one = randomUint8t(), one) == 255){
+ printf("One has the max uint8_t value");
+}
+
+So you assign the value of the ...
+            
+@tim687
+----------------------------------------------------------------
+******Python Behave feature file warnings******
+
+                I am not new to web automation with selenium but I am very new to python I am trying to create my own dynamic structure. With a little bit effort I can do  the BE coding with python but when it comes ...
+            
+@Uğur GELEÇ
+----------------------------------------------------------------
+******LinkedIn post scraping with python (BeautifulSoup, Selenium) [closed]******
+
+                I am trying to scrape LinkedIn posts. I am trying to get who liked it and commented on a particular post. For now, I can get the pop-up for users who liked it but were unable to scrape it.
+I need the ...
+            
+@Md Kaish Ansari
+----------------------------------------------------------------
+******Pandas Dataframe fill missing values (NaN) from saisonal timerseries with values from day or week before******
+
+                I have data from a heat device which is measuring the power consumption over one year.The Data have of course some NaN values (Around 600). I already resampled the data to 15 min time stamps. The ...
+            
+@ocram113
+----------------------------------------------------------------
+******scipy.signal.find_peaks return empty properties******
+
+                I tried to obtain properties from scipy.signal.find_peaks, but it returns an empty dictionary {}. Can anyone help to fix it?
+line={'x':[3405.024, 3405.312, 3406.176, 3406.464, 3406.752, 3407.04, 3407....
+            
+@David H. J.
+----------------------------------------------------------------
+******Load from source root in PyCharm using different interpreters in same project******
+
+                I am using PyCharm professional 2021.2.2, and my project looks like this:
+My project/
+|-- Folder1 
+|-- Folder2
+|-- ... FolderN
+|-- Subproject1
+|-- Subproject2
+
+The global project My Project uses a ...
+            
+@Yoda
+----------------------------------------------------------------
+******connection refused error in the very first line when using pycharmdevtools?******
+
+                I want to get the source code of a website, but the html file get by using driver.get() is not showing all te information. So I plan to use these codes I found
+import PyChromeDevTools
+chrome = ...
+            
+@snoobiedoo
+----------------------------------------------------------------
+******For loop with .replace()******
+
+                I need to change the 'names' list to the 'username' form.
+names = ["Joey Tribbiani", "Monica Geller", "Chandler Bing", "Phoebe Buffay"]
+--> 
+usernames = [&...
+            
+@Seo Jin Hyun
+----------------------------------------------------------------
+******moduleNotFoundError: No module named 'pytube'******
+
+                [Terminal screenshot of pytube installed][1]
+[1]: https://i.stack.imgur.com/5OlFm.png pytube is installed but when code it does not locate module but gives an error
+            
+@Muhammad Faizan Ali Dhudra
+----------------------------------------------------------------
+******discord.py - BanIterator object is not iterable******
+
+                I'm trying to make an unban command but I have no way of getting the banned users list.
+This is the code:
+@bot.slash_command(guild_ids = GUILD_IDS, name='bans', description='Prints a list of bans for ...
+            
+@JoeMama42069
+----------------------------------------------------------------
+******Docker sdk, proof if lable name exists******
+
+                I've got the current situation:
+import docker
+import platform
+
+java-base = False
+client = docker.from_env()
+
+images = client.images.list(filters={"label":"architecture"
++platform....
+            
+@Maleware
+----------------------------------------------------------------
+******Using a dictionary to plot a bar plot and using another dictionary to give each bar a specified color******
+
+                I want to use a dictionary to create a plot.
+import matplotlib.pyplot as plt
+
+data = {"rdeca":"4",
+   "zelena":"5",
+   "rumena":"7",
+   &...
+            
+@CH4
+----------------------------------------------------------------
+******How to import Trainer and TrainingArguments from transformers?******
+
+                I use pip to install transformer and I use python 3.9.
+When I do
+from transformers import  Trainer,TrainingArguments
+I get:
+
+Python 3.9.0 (default, Dec  4 2020, 23:28:57)  [Clang 9.0.0
+(clang-900.0.39....
+            
+@Ele
+----------------------------------------------------------------
+******Will image resizing increase the accuracy of an object detection model?******
+
+                I trained a custom object detection model using transfer learning and used the
+
+ssd_mobilenet_v1_fpn_640x640_coco17_tpu
+
+for transfer learning, training and eval both went fine with both having a high ...
+            
+@Skmp
+----------------------------------------------------------------
+******regex ^ negation vs start of line [duplicate]******
+
+                I am confused by the use of ^ to do negation while searches on the web returned specific solutions to the questions that do not solve my problem.
+Does ^ mean negation of a pattern or the start of line?...
+            
+@tbraden
+----------------------------------------------------------------
+******discord.py How to calculate time from message since time to current time******
+
+                timestamp = message.created_at
+
+print(timestamp)
+
+This is the output when I run this code:
+2022-07-22 06:02:12.934000
+
+I want to calculate time from time since message was sent to this time
+            
+@user19599936
+----------------------------------------------------------------
+******Pass username and password to a shell command******
+
+                I have to run a command to install a python package, it must run in a remote machine, how can i pass the username and password to it?
+pip install xyz
+
+I have tried these, they dont seem to work:
+echo $...
+            
+@Ankitha Kini
+----------------------------------------------------------------
+******Dajngo template not rendering content******
+
+                When i render blogpost.html page i can't see any content in my page.
+Please any devloper help me.
+My code look like this.
+
+My urls.py
+from django.urls import path
+from . import views
+
+urlpatterns = [
+ ...
+            
+@Divyrajsinh
+----------------------------------------------------------------
+******How to make threading work together with queue?******
+
+                I am trying to record video from the camera in a separate stream without loading the main process. To do this, I implemented the Recorder class, but it doesn't always work. Sometimes the video turns ...
+            
+@Gawain
+----------------------------------------------------------------
+******I don't want words ready to word_tokenize. I want word_tokenize to run strigs from txt file. How can I do?******
+
+                I don't want the strings that come ready in your word_tokenize. I want strings that are in my txt file read and to work. How can I do it?
+my code:
+    def text_parser_synonym_antonym_finder(text: str):...
+            
+@abhdhasvbfvf
+----------------------------------------------------------------
+******Sphinx autodoc fails due to TypeError but can import interactively******
+
+                I'm trying to build my docs but get an TypeError when trying to import numba packages...
+WARNING: autodoc: failed to import module 'haspi.haspi' from module 'clarity.evaluator'; the following ...
+            
+@slackline
+----------------------------------------------------------------
+******Loop to delete rows based on condition Pandas******
+
+                I got large data samples (1.6 million rows each) where I wish to delete all rows which does not fit certain conditions.
+I do have over 1400 different conditions which are tested if they should be ...
+            
+@OldSport
+----------------------------------------------------------------
+******Opencv Data exctraction from table ,I can't see the top of box, but i rotated boxs properly******
+
+                The height isnt enough for some words.
+I want to extract image table to text but my code doesn't comprehend some top of the charecters.I can't see the top of box, but i rotated boxs properly
+I have ...
+            
+@nevo
+----------------------------------------------------------------
+******How to create a Dummy Variable in Python if Missing Values are included?******
+
+                How to create a dummy variable if missing values are included? I have the following data and I want to create a Dummy variable based on several conditions. My problem is that it automatically converts ...
+            
+@Lisa
+----------------------------------------------------------------
+******Seach in JSON with variable depth and structure******
+
+                I have some highly nested JSON files I need to work with.
+A short example:
+{
+   "coffee":[
+      {
+         "value":"coffee"
+      },
+      {
+         "value":&...
+            
+@JukeboxHero
+----------------------------------------------------------------
+******How to get the number of available cores in python******
+
+                The standard method that I know to get number of cores in python is to use multiprocess.cpu_count
+import multiprocessing
+print(multiprocessing.cpu_count())
+
+Also, when creating a task we can specify ...
+            
+@Bob
+----------------------------------------------------------------
+******Filtering data with Pandas.query() method?******
+
+                I want to filter product_type which is having "others" for all ticket_id and replace "others" with voice.
+Sample dataframe
+ticket_id  network  product_type
+
+123        AAA      tv
+...
+            
+@Anos
+----------------------------------------------------------------
+******hey guys, im using yolov5 and we need to add a audio output when ever it detects a person [closed]******
+
+                im using anaconda prompt to run it and the dataset we use is coco we will change the dataset of when we complete our custom object and we are using the camera of my laptop. how do you add an audio ...
+            
+@Gabriel Habaña
+----------------------------------------------------------------
+******How can I resolve the error code I'm always getting as not enough values to unpack (expected 4, got 1) [closed]******
+
+                I've been trying to create this app where I can save in the details of logins but after computing the code I keep on getting that error message.
+class DataBase:
+    def __init__(self, filename):
+      ...
+            
+@Gerald Edirin
+----------------------------------------------------------------
+******Is it possibile to optimize Plotly carpet rendering?******
+
+                I am working on a plotter for Finite Element Method solutions. I decided to use the Plotly library because of the carpet plots. I have my data to plot and this is my result:
+Flow over NACA0012
+Each ...
+            
+@Daniel Bulgarini
+----------------------------------------------------------------
+******Compare values of DataFrames and write to new DataFrame******
+
+                i am pretty new to coding in general and might need some help.
+To my problem: I have 2 DataFrames, which do have different lengths:
+df1
+df2
+AB
+AB
+AC
+AC
+AD
+NaN
+AF
+NaN
+...
+...
+Now I want to ...
+            
+@Holla_die_waldfee
+----------------------------------------------------------------
+******get idxmax rolling for each group and each row?******
+
+                data: https://github.com/zero-jack/data/blob/main/hy_data.csv#L7
+Goal
+
+get the idxmax from last n rows for each group.
+
+Try
+df=df.assign(
+        l6d_highest_date=lambda x: x.groupby('hy_code')['high']...
+            
+@Jack
+----------------------------------------------------------------
+******bot sending message information instead of message******
+
+                So i am currently making a chat channel, where you can chat in the channel and the bot sends into an another server that has the channel named chat-chan,
+here is my code:
+async def on_message(message):...
+            
+@klooonk
+----------------------------------------------------------------
+******How to replace strings in pandas column that are in a list?******
+
+                I have scrolled through the posts on this question and was unable to find an answer to my situation. I have a pandas dataframe with a list of company names, some of which are represented as their ...
+            
+@Serge Kashlik
+----------------------------------------------------------------
+******Visual defects in matplotlib graph******
+
+                Current matplotlib graph
+How it should look like
+I want to change the graph color and gradient direction in the parts where graph goes below zero. Alternative image for illustration:
+
+I have tried it ...
+            
+@Ishan J.
+----------------------------------------------------------------
+******Getting error message while ploting metpy SkewT******
+
+                I am using WRF output data to plot SkweT, here is code:
+import wrf
+from netCDF4 import Dataset
+import matplotlib.pyplot as plt
+import numpy as np
+import metpy.calc as mpcalc
+from metpy.plots import ...
+            
+@rock0789
+----------------------------------------------------------------
+******Django CMS: Error while setting up django-cms******
+
+                I'm having a WSGI error while following the installation set up for django-cms from th official documentation.
+I ran test with python manage.py cms check and it was sucessful.
+
+Checking django CMS ...
+            
+@Dapo Adedire
+----------------------------------------------------------------
+******get replys to a specific tweet with twitter api v2******
+
+                anyone knows how to get a the relys for a specific tweet by it's ID maybe? i been trying but can't find any on the tweepy docs not discord's, can't seem to find anything about how to do it with ...
+            
+@AD DAB
+----------------------------------------------------------------
+******Why is python freezing with no exception raised******
+
+                We are running a python mail processing script from a Windows server. The applications checks a mailbox every 30 seconds and then does things like downloads attachments, manipulate them, copy them to ...
+            
+@levraininjaneer
+----------------------------------------------------------------
+******Export Running Python Program to .PYC for pycdc 3.10.4 Decompilation******
+
+                So I did an oopsie, and I've deleted all my sourcecode by running a git reset on uncommitted and unadded changes. I have the program running memory and I've jacked into it using pyrasite so I can see ...
+            
+@rjm27trekkie
+----------------------------------------------------------------
+******How to store a pdf file specifically a resume in postgressql database using python******
+
+                I want to store pdf file in postgres sql database, how can I achieve that?
+On UI person will be uploading resume which we want to store in our database.
+Using gRPC + Python in Backend
+            
+@user10021294
+----------------------------------------------------------------
+******Unable to import pandas library [closed]******
+
+                import pandas as pd
+
+I was not able to import pandas library and it replicates some numpy library stuff. I used to open jupyter notebook by anaconda navigator and I manually uninstalled jupyter ...
+            
+@Teja Lakkadasu
+----------------------------------------------------------------
+******How to rank elements within a 2D array******
+
+                I have an array of data representing web page traffic that is structured like this, where element 0 of each item is the page name, element 1 is pageviews and element 2 is number of users
+[['page 1 ...
+            
+@Dave
+----------------------------------------------------------------
+******Recursive algorithm to check nested lists if they are same or similar [closed]******
+
+                I need an algorithm on python to check if two lists have same structure.
+For instance,
+[0, [0, 0]] and ["", ["", ""]] - absolutely same.
+[0, [0, 0]] and [["", &...
+            
+@compka
+----------------------------------------------------------------
+******why variable of list has only one value? [closed]******
+
+                totally lost on this used np.array(), list() but nothing works.
+len(C) is giving 1.
+c_d = list([0.47,0.42,0.50,1.05,0.80,0.82])
+
+C = np.array(c_d)
+print(C)
+
+expected out was list of all elements
+but ...
+            
+@prathmesh
+----------------------------------------------------------------
+******python redis pubsub message loss******
+
+                import time
+
+import redis
+
+sub_client = redis.Redis(host="localhost", port=6379, db=0, retry_on_timeout=True).client()
+pub_client = redis.Redis(host="localhost", port=6379, db=0, ...
+            
+@Nekotoxin
+----------------------------------------------------------------
+******Joining dataframes based on nearest date and returning multiple rows as result******
+
+                I have contracts, that have valid_from and valid_to dates and orders with order_date. The goal here is to match order to matching contract based on the dates. The problem is, there can be multiple ...
+            
+@saif3r
+----------------------------------------------------------------
+******plot multiprocessor vs time in python******
+
+                Is there a way to plot this so that each processor is on a different y level, and each job on the x-axis has a border with it's name inside of its running time.
+p = [
+[{'j_name': 'Job3', 'start': 0, '...
+            
+@User19
+----------------------------------------------------------------
+******Multiprocessing with a function that returns a value, then appending that value******
+
+                I've seen bundles of questions on here about multiprocessing, none of which seem to answer my specific problem.
+Obviously my problem/function is much more complex, but I've tried to simplify it as ...
+            
+@top bantz
+----------------------------------------------------------------
+******Fastapi error No 'Access-Control-Allow-Origin' for long requests. What is the mistake?******
+
+                To access the API from the front, I use ngrok.exe http 80. When making requests from the fronted API, data filtering is performed that lasts 10min+, but the problem is that I get an error on the front ...
+            
+@Максим Кусь
+----------------------------------------------------------------
+******Easiest way to find filenames that differ by one word?******
+
+                I'm attempting to write a python script that compares a list of filenames to itself, and pulls out any filenames that are exact matches, or differ by only one word...
+Something along the lines of
+def ...
+            
+@amcsparron2793-Water
+----------------------------------------------------------------
+******How to get the value of a nested td elements using selenium python******
+
+                I am trying to get the value of the 3rd <td> tag in each <tr> in the table.
+I tried:
+math_grade = wait.until(EC.presence_of_element_located((By.TAG_NAME,'./body/div/div[1]/div[5]/div[1]/...
+            
+@Abed Al Ghani Shaaban
+----------------------------------------------------------------
+******why does join() function does not work in python [closed]******
+
+                I tried to make a random password generator in python. But the output is generated as a list, while I'm using the .join() function. print("".join(password))
+This is the output:  ['a', '!', ')...
+            
+@astryfox
+----------------------------------------------------------------
+******Using Python Functionalities in C******
+
+                I have a Parser written in python that works great with my current project but some of the more excellent functionalities I think can be handled better with c, so is there any way I could use my ...
+            
+@stephen telian
+----------------------------------------------------------------
+******How to reshape a CVXPY variable for constraint calculation?******
+
+                I have an integer variable named running_times which is length N.
+Each index in this variable represents the running time required for each period over a 24 hour period.
+I need to perform a ...
+            
+@Aidan Donnelly
+----------------------------------------------------------------
+******phyton pyusb cannot find usb devices on windows******
+
+                pyusb doesnt find any usb devices.I tried several devices and copied/pasted the VID and PID. Has anyone an idea,what I am doing wrong? I get always an error message: NameError: name '_04F2' is not ...
+            
+@subwafer
+----------------------------------------------------------------
+******How to save a list of lists as csv******
+
+                I'm trying to webscrape a list of players and save it as csv.
+This is the result I'm looking for: a list of the first x (4 players in this example) for y teams (2 teams in the example, total of 8 ...
+            
+@The-Elephant
+----------------------------------------------------------------
+******How to access previous row value in pandas lambda function or get the index of each row when doing df.apply()******
+
+                See initial question in the end.
+I have a dataframe like so
+df = pd.DataFrame({'Persons':[10,20,30], 'Bill':[110,240,365], 'Guests':[12,25,29],'Visitors':[15,23,27]})
+df
+
+Persons     Bill    Guests  ...
+            
+@moys
+----------------------------------------------------------------
+******Resample daily pandas DataFrame to the last day in the month given a particular series (not necessarily end of calendar month)******
+
+                I have a pandas DataFrame that contains daily stock prices. I want to resample the daily date index to monthly by taking the last date in the month for every month range that I have. For example, if I ...
+            
+@youmac
+----------------------------------------------------------------
+******PyQt5 - Copy QObject child******
+
+                I have a pyqt5 app with an MVC structure similar to the one described here.
+When the model is edited, a pyqtSignal is emitted, after which the controller will update the view (and, of course, the ...
+            
+@Wouter
+----------------------------------------------------------------
+******Click on a webelement using Selenium and onclick attribute******
+
+                I am having trouble using selenium and using CSS select for onclick.
+The HTML code looks like this:
+<div class="hexagon pointer" onclick="login.LoginCACSynchro('SYNCHRO');">
+
+...
+            
+@Abwethin85
+----------------------------------------------------------------
+******What does training = False actually do for Tensorflow Transfer Learning?******
+
+                I have this code right here:
+base_model = tf.keras.applications.resnet_v2.ResNet50V2(input_shape=input_shape, include_top=False, weights='imagenet')
+
+base_model.trainable = False
+
+inputs = tf.keras....
+            
+@Marios Constantinou
+----------------------------------------------------------------
+******Why default dtype is not memory efficient when extracting day, month or year?******
+
+                Let's say we have created pandas Series that contains several datetime64 objects:
+import numpy as np
+import pandas as pd
+import datetime as dt
+
+items = [
+    dt.datetime(2015, 8, 16),
+    dt.datetime(...
+            
+@BalticCygnus
+----------------------------------------------------------------
+******Python removing outliers from plotly scatter plot******
+
+                I coloured my outliers already and they are shown in the plot. I can`t figure out how to remove the "weird" outliers from the plot?
+Flagging the weirdoes
+weirdoes_condition = final['median [...
+            
+@Lmerz
+----------------------------------------------------------------
+******Calculating the weeks between two dates in python from strings that have different formats******
+
+                Data={
+    0:{
+        'date': "12 jul 2021",
+        'country': "xyz",
+        'country_id': "0",
+        'event_dict': {
+           0: {
+               'event1': "...
+            
+@Mithel
+----------------------------------------------------------------
+******How to check similarity between two name pairs interchangeably and give them a unique identifier in python pandas dataframe?******
+
+                I have a dataframe as follows,
+df_names = pd.DataFrame({'last_name':['Williams','Henry','XYX','Smith','David','Freeman','Walter','Test_A'],
+                        'first_name':['Henry','Williams','...
+            
+@myamulla_ciencia
+----------------------------------------------------------------
+******Validate pydantic fields according to value in other field******
+
+                I'm trying to validate some field according to other fields, example:
+from pydantic import BaseModel, validator
+class MyClass(BaseModel):
+    type: str
+    field1: Optional[str] = None
+    field2: ...
+            
+@MesRot
+----------------------------------------------------------------
+******Kivy: How to access global variables in .kv file******
+
+                I'm fairly new to kivy and need some help with accessing a global variable in kivy. The idea of this demo code is to be able to update a global variable via a class method. These methods would, in ...
+            
+@Griffin Neal
+----------------------------------------------------------------
+******Am I using python mock testing correctly here with the use of a context manager?******
+
+                In my function some_funciton() I'm creating a database connection using a context manager in the Database class. Once I'm connected to the database I execute a select_all() database method to get the ...
+            
+@user19479943
+----------------------------------------------------------------
+******REST API: How to provide http request header details******
+
+                Testing with the postman app
+I am making a request (GET) to fetch data from the server since the endpoints are authenticated, I'm providing the token value in the headers option. The above request ...
+            
+@user17715248
+----------------------------------------------------------------
+******python problems using re.sub with a function as an argument [duplicate]******
+
+                I want to slightly transform a string, and I'm using re.sub to do so. I want to use a customised function as an argument to transform a specific matching group:
+def get_super(x):
+    normal = "...
+            
+@Pedro Domingues
+----------------------------------------------------------------
+******Spotify API get playlist tracks offset parameter not working******
+
+                I try to get a playlist from the Spotify API that contains more than 100 tracks. Since there is a rate limit of 100, I try to change the offset parameter each request to get the next 100 tracks. I ...
+            
+@Maed
+----------------------------------------------------------------
+******How to upgrade python version 3.6.9 to any latest stable python version in azure unbuntu 18.04LTS instance******
+
+                How to upgrade python version 3.6.9 in unbuntu 18.04LTS to any latest stable python version
+            
+@Akram
+----------------------------------------------------------------
+******Find upper and lower nearest value in pandas******
+
+                I have dataframe like below and a list of values. Now need to populate 1st & 2nd upper / lower values from list against each Close coloumn value in dataframe.
+DataFrame- (expected result is in red)...
+            
+@Mohit
+----------------------------------------------------------------
+******I'm trying to speak through my discord bot, what's wrong with my code?******
+
+                Trying to speak through my discord bot, already have some code, but it isn't working too well
+import discord
+import os
+from discord.ext import commands
+import asyncio
+from discord.ext.commands import ...
+            
+@Kabur
+----------------------------------------------------------------
+******Was using the osmnx package and got the following******
+
+                I was using the code provided in this article :
+https://towardsdatascience.com/visualization-in-python-finding-routes-between-points-2d97d4881996
+I followed the exact steps from installing osmnx but ...
+            
+@RandoM123
+----------------------------------------------------------------
+******How to find it Distroted image and Clear image using opencv python?******
+
+                How to find it Distorted image and Clear image using OpenCv in python.So far I have tried many approaches using Laplacian Library , Canny Library.Laplacian Library used in threshold value set and then ...
+            
+@Jayendra Raj
+----------------------------------------------------------------
+******Allow user website embed and export django******
+
+                I am building a t $ c generator website with django. How do I allow user export files and website embed
+            
+@Abby
+----------------------------------------------------------------
+******Plot timeseries volume (instead of density) using ridgline/joyplot******
+
+                I want to plot a chart looks like a ridgeline/joyplot, but instead of displaying density, displays the volume of occurences over time (timeseries stacked area chart).
+How can I plot the volume of each ...
+            
+@M_B
+----------------------------------------------------------------
+******Override __hash__ in python dict mypy error******
+
+                I am writing a class that represents a hashable dictionary in Python, following what has been suggested in here: hashable dict. I am doing this because I need it to be hashable for other ...
+            
+@Mattia Surricchio
+----------------------------------------------------------------
+******Firestore/Python - get() function to access a document fails in GCP Cloud Function******
+
+                I'm trying to access a document in Firestore like this:
+from google.cloud import firestore
+
+def check_stuff(document_id, update_time):
+    firestore_client = firestore.Client()
+    doc_ref = ...
+            
+@cuzureau
+----------------------------------------------------------------
+******Python type hint for a recursive type******
+
+                I am trying to write the type hint for a zero-argument function that either returns another zero-argument function, or a value.
+AIUI, mypy does not (currently) understand recursive types, but it can ...
+            
+@Xophmeister
+----------------------------------------------------------------
+******How to run a function n times parallelly******
+
+                I have a function and a list of 20000 parameters for the function. The function takes roughly 4 minutes to complete the execution part and I need to find the best parameters for the function based on ...
+            
+@vignesh kanakavalli
+----------------------------------------------------------------
+******basemap drawmapscale problem with projection (ValueError : cannot draw map scale for projection='cyl')******
+
+                Hi I tried to plot a map with scale bar.
+However, there is a problem with drawmapscale part.
+The code is as below.
+    la=36.25
+    ua=36.6
+    ln=128.1
+    un=129
+    m_lat=(la+ua)/2
+    m_lon=(ln+un)...
+            
+@Lover Coffee
+----------------------------------------------------------------
+******Are there things i need to prepare learn before starting CS? [closed]******
+
+                I'm going to start a computer science degree in September 2022 and I was wondering if there are things I must learn about before starting.
+If you have any resources that might help me (even if they ...
+            
+@Nouha Ouahabi
+----------------------------------------------------------------
+******How can i start process inside another function in python?******
+
+                Suppose i have two functions
+def funct1():
+    ##does something
+def funct2():
+    ##does something
+
+I want to use them in another function with multiprocessing like so:
+def my_funct
+    ##does ...
+            
+@cesar col
+----------------------------------------------------------------
+******Taking the 'product' of lists******
+
+                Suppose that I am given a list of strings, e.g. list = ['a', 'b', 'c']. I am also given a list of 'continuation strings', e.g. continuations = ['d', 'f'], and I want to form a list of all possible ...
+            
+@afreelunch
+----------------------------------------------------------------
+******Error during installtion of bluepy using pip 22.2******
+
+                I`m trying to install bluepy with Python3.9.10 and pip 22.2 installed.
+While doing that I keep getting the following output:
+C:\Users\User>pip3 install bluepy
+Collecting bluepy
+  Using cached ...
+            
+@Jannis
+----------------------------------------------------------------
+******Interp2d applied to a coordinate Grid from 2 axis******
+
+                I currently have 2 "axis" arrays that are 1 dimensional: xs = [1,2,3] and ys = [1,2,3]. I want to make a coordinate grid using these 2 axis, maybe in the form of a 2D array such as
+[[(1,1),(...
+            
+@Jamal
+----------------------------------------------------------------
+******Exact match in Pandas Series after splitting by character******
+
+                Given the following Pandas Series:
+import pandas as pd
+series = pd.Series(['red', 'green,blue', 'yellow', 'greenish', 'blueish'])
+
+How to find the index (or boolean) where, after splitting each ...
+            
+@David
+----------------------------------------------------------------
+******How to get the last frame of a video with imageio in python?******
+
+                I wanna grab 5 frames of a video distributed evenly including first and last frame. The answer to this helped me to loop over the video and get frames. However I didn't find out how to know when it's ...
+            
+@JasonTS
+----------------------------------------------------------------
+******Running long/complex commands using Python******
+
+                Is there any easy way to run complex/long shell commands.  i just need namespace . python was not happy with Awk .  and how to store the output in variable in below example ..or store in file is ...
+            
+@Talha Aziz
+----------------------------------------------------------------
+******Reduce spacing between bars in seaborn hist plot******
+
+                I am plotting some data with
+g = seaborn.displot(data, x=var, stat='probability')
+
+# Set appropriate ticks                   
+plt.xticks(np.arange(0, int(data[var].max() + 1), 1.0))
+plt.show()
+
+which ...
+            
+@A. Bollans
+----------------------------------------------------------------
+******Google Sheets API, Python.HttpError 500 when requesting {url} returned "Internal error encountered.". Details: "Internal error encountered."******
+
+                Good afternoon. My client has a google spreadsheet that he made entries into via a telegram bot. But recently there was an error
+<HttpError 500 when requesting returned "Internal error ...
+            
+@Pavel
+----------------------------------------------------------------
+******How can I set minimum lift in apriori algorithm?******
+
+                itemsets,rules=apriori(sdata1,min_support=0.25,min_confidence=0.5)
+#with the help of efficient_appriori, it is possible to filter and sort the returned list of association rules.
+for item in sorted(...
+            
+@CCDDD
+----------------------------------------------------------------
+******Th code of Counter(expression) confused me - from the book "Data Science from Scratch: First Principles with Python"******
+
+                from collections import Counter
+grades = [83, 95, 91, 87, 70, 0, 85, 82, 100, 67, 73, 77, 0]
+
+# Bucket grades by decile, but put 100 in with the 90s
+histogram = Counter(min(grade // 10 * 10, 90) for ...
+            
+@user14880056
+----------------------------------------------------------------
+******Selecting ROI for Object Tracking from uninterrupted video stream with Python OpenCV******
+
+                I was following this tutorial https://www.pyimagesearch.com/2018/07/30/opencv-object-tracking/ that allows you to create an ROI from a static screenshot of the video stream to do basic object tracking ...
+            
+@ansib1e
+----------------------------------------------------------------
+******How to use QElapsedTimer without a QTimer?******
+
+                When I tried to use QElapsedTimer to clear a text in a label I couldn't find a way of using it without a QTimer. Is there a way of connecting a method so that it will do something when the ...
+            
+@tad
+----------------------------------------------------------------
+******Accessing indices in an array where the elements value difference occurs******
+
+                I have a one  dimensional list like :
+val=np.array([1,1,0,0,1,1,0,4,0,0,1])
+
+My requirement is to access the indices, where the difference between element is 1(like the transition occurs from 1 to 0 ...
+            
+@Bhar Jay
+----------------------------------------------------------------
