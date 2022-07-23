@@ -10,12 +10,11 @@ class QuestionSpider(scrapy.Spider):
         url_list = [
 
         ]
-        for i in range(2,100):
+        for i in range(2,153):
             url_list.append('https://stackoverflow.com/questions/tagged/python?page=%d' % i)
 
         urls = []
-        urls.append('https://stackoverflow.com/questions')  
-        print("ok shooooooooooooood!")  
+        urls.append('https://stackoverflow.com/questions')   
         for url in url_list:
             urls.append(url)
             yield scrapy.Request(url=url, callback=self.parse)
